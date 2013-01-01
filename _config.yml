@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://dtjohnso.github.com
-title: duncanjohnson.ca
-subtitle: A blogging framework for hackers.
+title: DuncanJohnson.ca
+# subtitle: A blogging framework for hackers.
 author: Duncan Johnson
 simple_search: http://google.com/search
 description:
