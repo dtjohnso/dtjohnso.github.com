@@ -1,9 +1,0 @@
----
-layout: post
-title: "test"
-date: 2013-02-05 10:17
-comments: true
-categories: 
----
-
-This is a test post to confirm that I have everything working on a new machine. I will delete this after I see it go live (I hope).
