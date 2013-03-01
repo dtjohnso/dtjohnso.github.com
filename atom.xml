@@ -4,21 +4,21 @@
   <title><![CDATA[DuncanJohnson.ca]]></title>
   <link href="http://dtjohnso.github.com/atom.xml" rel="self"/>
   <link href="http://dtjohnso.github.com/"/>
-  <updated>2013-02-28T22:46:19-07:00</updated>
+  <updated>2013-02-28T23:00:25-07:00</updated>
   <id>http://dtjohnso.github.com/</id>
   <author>
-    <name><![CDATA[Duncan Johnson]]></name>
-    
+	<name><![CDATA[Duncan Johnson]]></name>
+	
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+  <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dtjohnso.github.com/blog/2013/01/01/Hello-World/"/>
-    <updated>2013-01-01T14:16:00-07:00</updated>
-    <id>http://dtjohnso.github.com/blog/2013/01/01/Hello-World</id>
-    <content type="html"><![CDATA[<h2>First post</h2>
+	<title type="html"><![CDATA[Hello World]]></title>
+	<link href="http://dtjohnso.github.com/blog/2013/01/01/Hello-World/"/>
+	<updated>2013-01-01T14:16:00-07:00</updated>
+	<id>http://dtjohnso.github.com/blog/2013/01/01/Hello-World</id>
+	<content type="html"><![CDATA[<h2>First post</h2>
 
 <p>duncanjohnson.ca is my new homepage. For now, most of my stuff still lives over at <a href="http://www.duncanandmeg.org">duncanandmeg.org</a>. However, some of it will be moving over here eventually. I&#8217;m pretty excited about blogging with <a href="http://octopress.org/">OctoPress</a> instead of old WordPress, so we&#8217;ll see how this goes.</p>
 ]]></content>
