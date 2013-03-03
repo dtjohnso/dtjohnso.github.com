@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[DuncanJohnson.ca]]></title>
-  <link href="http://dtjohnso.github.com/atom.xml" rel="self"/>
-  <link href="http://dtjohnso.github.com/"/>
-  <updated>2013-03-01T16:40:37-07:00</updated>
-  <id>http://dtjohnso.github.com/</id>
+  <link href="http://www.duncanjohnson.ca/atom.xml" rel="self"/>
+  <link href="http://www.duncanjohnson.ca/"/>
+  <updated>2013-03-02T19:37:03-07:00</updated>
+  <id>http://www.duncanjohnson.ca/</id>
   <author>
 	<name><![CDATA[Duncan Johnson]]></name>
 	
@@ -15,13 +15,11 @@
   
   <entry>
 	<title type="html"><![CDATA[Hello World]]></title>
-	<link href="http://dtjohnso.github.com/blog/2013/01/01/Hello-World/"/>
+	<link href="http://www.duncanjohnson.ca/blog/2013/01/01/Hello-World/"/>
 	<updated>2013-01-01T14:16:00-07:00</updated>
-	<id>http://dtjohnso.github.com/blog/2013/01/01/Hello-World</id>
-	<content type="html"><![CDATA[<h2>First post</h2>
-
-<p>duncanjohnson.ca is my new homepage. For now, most of my stuff still lives over at <a href="http://www.duncanandmeg.org">duncanandmeg.org</a>. However, some of it will be moving over here eventually. I&#8217;m pretty excited about blogging with <a href="http://octopress.org/">OctoPress</a> instead of old WordPress, so we&#8217;ll see how this goes.</p>
-]]></content>
+	<id>http://www.duncanjohnson.ca/blog/2013/01/01/Hello-World</id>
+	<content type="html"><![CDATA[<h2 id="first-post">First post</h2>
+<p>duncanjohnson.ca is my new homepage. For now, most of my stuff still lives over at <a href="http://www.duncanandmeg.org">duncanandmeg.org</a>. However, some of it will be moving over here eventually. I’m pretty excited about blogging with <a href="http://octopress.org/">OctoPress</a> instead of old WordPress, so we’ll see how this goes.</p>]]></content>
   </entry>
   
 </feed>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dtjohnso.github.com/sitemap.xml 
+Sitemap: http://www.duncanjohnson.ca/sitemap.xml 

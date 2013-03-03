@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dtjohnso.github.com/blog/2013/01/01/Hello-World/</loc>
+        <loc>http://www.duncanjohnson.ca/blog/2013/01/01/Hello-World/</loc>
         <lastmod>2013-02-28T23:00:15-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dtjohnso.github.com/about/</loc>
+        <loc>http://www.duncanjohnson.ca/about/</loc>
         <lastmod>2013-03-01T16:36:03-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dtjohnso.github.com/blog/archives/</loc>
+        <loc>http://www.duncanjohnson.ca/blog/archives/</loc>
         <lastmod>2013-02-28T23:00:15-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dtjohnso.github.com/</loc>
+        <loc>http://www.duncanjohnson.ca/</loc>
         <lastmod>2013-02-28T23:00:15-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dtjohnso.github.com/projects/</loc>
+        <loc>http://www.duncanjohnson.ca/projects/</loc>
         <lastmod>2013-03-01T16:40:29-07:00</lastmod>
     </url>
     <url>
-        <loc>http://dtjohnso.github.com/robots.txt</loc>
+        <loc>http://www.duncanjohnson.ca/robots.txt</loc>
         <lastmod>2013-02-05T10:15:30-07:00</lastmod>
     </url>
 </urlset>
