@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dtjohnso.github.com
+url: http://www.duncanjohnson.ca
 title: DuncanJohnson.ca
 # subtitle: A blogging framework for hackers.
 author: Duncan Johnson
@@ -33,7 +33,10 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
+markdown: pandoc # http://drz.ac/2013/01/03/blogging-with-math/
+pandoc:
+    skip: false
+    flags: '--smart'
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index

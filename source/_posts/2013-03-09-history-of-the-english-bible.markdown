@@ -1,23 +1,19 @@
 ---
 layout: post
-title: "History of the English Bible"
-date: 2013-02-05 12:19
+title: "'That Inestimable Treasure': The History of the English Bible"
+date: 2013-03-09 12:00
 comments: true
 categories: 
 published: false
 ---
 
-<!-- 
+> But among all our joys, there was no one that more filled our hearts, than the blessed continuance of the preaching of God’s sacred Word among us; which is that inestimable treasure, which excelleth all the riches of the earth; because the fruit thereof extendeth itself, not only to the time spent in this transitory world, but directeth and disposeth men unto that eternal happiness which is above in heaven.[^1]
 
-Saturday Lecture Plan
+Readers of the English Bible have had the privilege of "the blessed continuance of the preaching of God’s sacred Word" now for centuries, a blessing that is dependent upon popular access to reliable English translations. At the time that the King James translators wrote these words, there were a handful of English translations available to the relatively small proportion of the world's population that spoke English. 
 
-*	Biblical Reasons against KJVOism (Bud; 30-40 minutes)
-*	Evaluating Translation Philosophy and Specific Translations (Bud; 2 hours)
-*	History of Bible Translation from Original Mss to Latin Vulgate (Bud; 2 hours)
-*	History of the English Bible, ca. 1300–2011. (Duncan; 2 hours)
-*	History of the KJVO movement within Fundamentalism (Duncan; cf. Straub; 2 hours)
+Today, those circumstances have changed. Thanks to the growth of the British Empire in the Victorian era and today's trend toward globalization, English now serves as the trade language for the world. This burgeoning market of English readers has created a demand for updated translations, and today there is such a proliferation of English Bibles on the market that publishers now compete for readership with slick marketing campaigns.
 
- -->
+This lecture will attempt to explain how we arrived at this point from such humble beginnings. <!-- Include some learning objectives and more survey thoughts here about the overall outline of the article -->
 
 The history of the English Bible divides into three eras:
 
@@ -25,11 +21,15 @@ The history of the English Bible divides into three eras:
 2. The English Reformation to the 19th century (ca. 1500--1900)
 3. The 20th and 21st centuries (1901--2013)
 
-## The Medieval period (ca. 700--1500)
+## 1. The Medieval period (ca. 700--1500)
 
-### Early Christian heritage of the British Isles
+### 1.1. Early Christian heritage of the British Isles
 
-The story of the English Christianity actually begins before the fall of the Roman empire. Christian influence can be found in England as early as the first or second century, although it is unknown how Christianity arrived here. 
+The story of the English Christianity begins under the Roman empire. Christian influence can be found in England as early as the first and second centuries[^2], although it is unknown how Christianity arrived. These early Christians were wiped out when the Angles, Saxons, and Jutes pushed the Romans out of England during the early 5th century. Christianity carried on in the regions of Ireland and Scotland during this time under the leadership of men such as Patrick (5th century) in Ireland and Columba (6th century) in Scotland.
+
+Eventually, Christianity reappeared in England in two competing streams. Missionaries from Scotland were first to arrive, establishing Celtic Christianity. Meanwhile, Roman Christianity was reestablished by Augustine of Canterbury (601--604), who was commissioned by Pope Gregory I (590--604). 
+
+Celtic Christianity established itself first in Lindisfarne (known as "the Holy Island"), under the leadership of Aidan ca. A.D. 635.
 
 <!-- Outline this part:
 
@@ -37,9 +37,11 @@ Mention Roman withdrawal in 4th and 5th centuries, Celtic Christianity and the L
 
 -->
 
-### Medieval English Bibles
+### 1.2. Medieval English Bibles
 
 <!-- Give a brief summary of the medieval Bibles mentioned in Philip Comfort's timeline (which need more detail in my timeline, as well)  -->
+
+
 
 Caedmon
 Bede
@@ -48,16 +50,16 @@ Lindisfarne Gospels
 Aelfric
 Rolle and Shorham
 
-### John Wycliffe and the Lollards
+### 1.3. John Wycliffe and the Lollards
 
 
 
 
-## The English Reformation to the 19th century (ca. 1500--1900)
+## 2. The English Reformation to the 19th century (ca. 1500--1900)
 
 
 
-### William Tyndale
+### 2.1. William Tyndale
 
 <!-- Brent Cook, lectures 5 p 7:
 
@@ -72,16 +74,24 @@ The lineage of the modern English Bible begins with the work of William Tyndale 
 1515	Graduates with Oxford MA
 1525-35 Translates the Bible
 
-### The King James Bible
+### 2.2. The King James Bible
 
-#### Publication history
+#### 2.2.1. Publication history
 
 By current standards, seventeenth-century book printing appears informal and unstandardized, and the early production history of the KJV includes a variety of well-known printer's errors. These errors ranged in severity from comical typos (such as the "Printer's Bible" and "Vinegar Bible") to serious omissions (such as the "Wicked Bible"). 
 
 
 
-## The 20th and 21st centuries (1901--2013)
+## 3. The 20th and 21st centuries (1901--2011)
 
-### The New International Version
+### 3.1. The New International Version
 
 
+## Additional Resources
+
+The material in this lecture is designed to be supplemented by an [interactive timeline project](/English-Bible/) which I've worked on as a hobby since mid-2011. Many of the events described here will show up in there, with links to additional reading on Wikipedia.
+
+<!-- Include a bibliography here -->
+
+[^1]: Epistle Dedicatory, King James Bible.
+[^2]: [Alban](http://en.wikipedia.org/wiki/Saint_Alban) was martyred in England sometime between A.D. 209 and 259. 
