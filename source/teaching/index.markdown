@@ -17,9 +17,14 @@ footer: true
 * [Ex204 Exposition of Isaiah][ex204]. An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
 * [Ex402 Exposition of Mark][ex402]. An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 
-<!-- ### Guest Lectures -->
+### Guest Lectures
 
-<!-- include bibliology lectures here, eventually add summer 2011 block class lectures? -->
+Date       Title                                                           Course               Related Resources
+---------- --------------------------------------------------------------- -------------------- ----------------------------------------
+2013-03-09 'That Inestimable Treasure': The History of the English Bible   Th 104 Bibliology    [Lecture Notes][2013-03-09-English]
+2013-03-09 History of the KJV-Only movement within Fundamentalism          Th 104 Bibliology    [Slide presentation][2013-03-09-KJVO]
+
+<!-- eventually add summer 2011 block class lectures? -->
 
 [su201]: http://duncanandmeg.org/blogs/su201/
 [pr103]: http://duncanandmeg.org/blogs/pr103/
@@ -27,3 +32,5 @@ footer: true
 [ex201]: http://duncanandmeg.org/blogs/ex201/
 [ex402]: http://duncanandmeg.org/blogs/ex402/
 [FBC]: http://www.foundationbaptistcollege.ca/
+[2013-03-09-English]: http://duncanjohnson.ca/blog/2013/03/09/history-of-the-english-bible/
+[2013-03-09-KJVO]: http://duncanjohnson.ca/KJV-Only-Movement-History/
