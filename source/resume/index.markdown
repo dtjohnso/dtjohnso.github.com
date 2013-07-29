@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -7,10 +7,12 @@ sharing: true
 footer: true
 ---
 
+[This resume is also available as a [PDF file](/resume/resume.pdf).] -->
+
 ## Duncan Johnson
 
 <http://duncanjohnson.ca/>  
-[duncan [at] duncanjohnson [dot] ca][email]  
+duncan [at] duncanjohnson [dot] ca  
 780-995-5855 (cell)
 
 PO Box 92117, Meadowbrook RPO  
