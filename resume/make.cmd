@@ -1,0 +1,1 @@
+pandoc --template=resume-template.tex -o resume.pdf index.markdown
