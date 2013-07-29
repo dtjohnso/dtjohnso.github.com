@@ -14,8 +14,9 @@ My wife [Meg](http://www.joyfulmelody.ca/) teaches private violin lessons, when 
 ## Education
 
 * *Master of Divinity* (2011). Seminary and Graduate School of Religion, [Bob Jones University][BobJones], Greenville, SC.
-* *Bachelor of Arts* (2006). School of Religion, [Bob Jones University][BobJones], Greenville, SC.
-
+* *Bachelor of Arts* (2006). School of Religion, [Bob Jones University][BobJones], Greenville, SC.  
+Major: Bible (School of Religion)  
+Minor: Information Systems Management (College of Arts and Sciences, Division of Mathematical Science, Department of Computer Science)
 
 [BobJones]: http://www.bju.edu/
 [FBC]: http://www.foundationbaptistcollege.ca/
