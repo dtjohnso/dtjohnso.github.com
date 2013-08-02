@@ -1,1 +1,1 @@
-pandoc --template=resume-template.tex -o resume.pdf index.markdown
+pandoc --latex-engine=xelatex --template=resume-template.tex -o resume.pdf index.markdown
