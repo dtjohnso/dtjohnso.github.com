@@ -36,7 +36,7 @@ Minor: Information Systems Management (College of Arts and Sciences, Division of
 
 **Meadowlands Baptist Church, Edmonton, AB** (October 2012--October 2013)  
 *Church Administrator*  
-Responsible to organize, oversee, and execute routine church operations through support staff and volunteers. Managed church operations, finances, human resources, and projects.
+Organized, oversaw, and executed routine church operations through support staff and volunteers. Managed church operations, finances, human resources, and projects.
 
 **MacEwan University, Edmonton, AB** (August 2011--October 2012)   
 *Technology Support Centre Assistant*  
@@ -54,7 +54,7 @@ Assisted students with class assignments. Designed an internal website for the C
 
 **Foundation Baptist College, Edmonton, AB** (June 2011--present)   
 *Professor*  
-Teach Bible courses, manage library and maintain college web presence
+Teach Bible courses, manage library and maintain college web presence, among other duties.
 
 **Meadowlands Baptist Church, Edmonton, AB** (June--August 2011)  
 *Intern*  
