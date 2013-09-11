@@ -11,14 +11,15 @@ footer: true
 
 ### Courses taught
 
-* [Su201 Life of Christ][su201]. A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
-* [Pr103 Personal Evangelism][pr103]. Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
-* [Ex201 Exposition of John's Gospel][ex201]. Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
-* [Ex204 Exposition of Isaiah][ex204]. An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
-* [Ex402 Exposition of Mark][ex402]. An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
-* [Th105 Church History Survey][th105]. Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
-* [Th106 Baptist History][th106]. Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
-* AL401 Matthew in Greek. Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
+* **Su201 Life of Christ.** ([Fall 2011][su201]) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
+* **Pr103 Personal Evangelism.** ([Spring 2012][pr103]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+* **Ex201 Exposition of John's Gospel.** ([Fall 2012][ex201]) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
+* **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
+* **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
+* **Ex402 Exposition of Mark.** ([Spring 2013][ex402]) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
+* **Th105 Church History Survey.** ([Spring 2014][th105]) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
+* **Th106 Baptist History.** ([Fall 2013][th106]) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
+* **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
 
 ### Guest Lectures
 
