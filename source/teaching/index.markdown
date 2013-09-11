@@ -18,6 +18,7 @@ footer: true
 * [Ex402 Exposition of Mark][ex402]. An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * [Th105 Church History Survey][th105]. Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 * [Th106 Baptist History][th106]. Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
+* AL401 Matthew in Greek. Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
 
 ### Guest Lectures
 

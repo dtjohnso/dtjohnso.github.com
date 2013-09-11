@@ -14,6 +14,7 @@ footer: true
 * Adult Bible study group worksheets. During my time on staff at [Meadowlands Baptist Church][meadowlands], I was tasked with writing worksheets for use in conjunction with the passages studied during adult Bible study sessions on Sunday mornings. I wrote study sheets for several New Testament books. These worksheets are available for download in ZIP archives containing versions in Word and PDF format.
 	- [Mark][mark]
 	- [1 and 2 Peter][1-2-peter]
+	- [Jude][jude]
 
 ## Past Projects  
 ### Library Subject Guides
@@ -34,3 +35,4 @@ I published these research guides during my time as a research assistant at the 
 [meadowlands]: http://www.meadowlandsbaptist.ca/
 [mark]: /projects/mark-worksheets.zip
 [1-2-peter]: /projects/peter-worksheets.zip
+[jude]: /projects/jude-worksheets.zip
