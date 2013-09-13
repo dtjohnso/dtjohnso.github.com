@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -8,7 +8,7 @@ footer: true
 ---
 
 [This resume is also available as a [PDF file](/resume/resume.pdf).]
-
+ -->
 ## Duncan Johnson
 
 <http://duncanjohnson.ca/>  
@@ -17,10 +17,10 @@ duncan [at] duncanjohnson [dot] ca
 
 PO Box 92117, Meadowbrook RPO  
 Edmonton, AB T6T 1N1
-
+<!-- 
 ### Objective
 
-To work to the glory of God and pay the bills.
+To work to the glory of God and pay the bills. -->
 
 ### Education
 
@@ -34,7 +34,7 @@ Minor: Information Systems Management (College of Arts and Sciences, Division of
 
 ### Experience
 
-**Meadowlands Baptist Church, Edmonton, AB** (October 2012--October 2013)  
+**Meadowlands Baptist Church, Edmonton, AB** (October 2012--September 2013)  
 *Church Administrator*  
 Organized, oversaw, and executed routine church operations through support staff and volunteers. Managed church operations, finances, human resources, and projects.
 

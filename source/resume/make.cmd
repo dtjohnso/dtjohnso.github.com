@@ -1,1 +1,1 @@
-pandoc --latex-engine=xelatex --template=resume-template.tex -o resume.pdf index.markdown
+pandoc -H settings.sty --latex-engine=xelatex -o resume.pdf index.markdown --variable=urlcolor:black --variable=fontsize:12pt
