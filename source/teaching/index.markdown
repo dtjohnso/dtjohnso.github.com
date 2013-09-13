@@ -54,11 +54,11 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 \
 
 
-[su201]: http://duncanandmeg.org/blogs/su201/
-[pr103]: http://duncanandmeg.org/blogs/pr103/
-[ex204]: http://duncanandmeg.org/blogs/ex204/
-[ex201]: http://duncanandmeg.org/blogs/ex201/
-[ex402]: http://duncanandmeg.org/blogs/ex402/
+[su201]: http://blogs.duncanjohnson.ca/su201-2011
+[pr103]: http://blogs.duncanjohnson.ca/pr103-2012
+[ex204]: http://blogs.duncanjohnson.ca/ex204-2012
+[ex201]: http://blogs.duncanjohnson.ca/ex201-2012
+[ex402]: http://blogs.duncanjohnson.ca/ex402-2013
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
 [th106]: http://blogs.duncanjohnson.ca/th106-2013/
 
