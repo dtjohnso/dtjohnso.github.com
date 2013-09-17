@@ -3,7 +3,7 @@ layout: post
 title: "On the job market again"
 date: 2013-07-29 13:53
 comments: true
-categories: 
+categories: Personal
 ---
 
 Since last October, I've been employed at [Meadowlands Baptist Church][meadowlands] in a staff role as the Church Administrator. Because of changing needs at the church, my position has come to an end and I am back on the job market again.
