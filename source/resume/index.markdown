@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-[This resume is also available as a [PDF file](/resume/resume.pdf).] -->
+[This resume is also available as a [PDF file](/resume/resume.pdf).]
 
 ## Duncan Johnson
 
