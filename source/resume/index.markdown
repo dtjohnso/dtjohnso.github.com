@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-[This resume is also available as a [PDF file](/resume/resume.pdf).]
+[This resume is also available as a [PDF file](/resume/resume.pdf).] -->
 
 ## Duncan Johnson
 
@@ -34,6 +34,10 @@ Minor: Information Systems Management (College of Arts and Sciences, Division of
 
 ### Experience
 
+**Foundation Baptist College, Edmonton, AB** (October 2013--present)  
+*Vice President*  
+Taught courses on Bible and church history and managed the business affairs of the College.
+
 **Meadowlands Baptist Church, Edmonton, AB** (October 2012--September 2013)  
 *Church Administrator*  
 Organized, oversaw, and executed routine church operations through support staff and volunteers. Managed church operations, finances, human resources, and projects.
@@ -46,15 +50,15 @@ Provided technology support to students, staff and faculty via phone, walk up an
 *Graduate Assistant* (Mack Library)  
 Abstracted and cataloged popular and scholarly articles on religion, theology, biblical interpretation, ethics, history, and current events while assisting with patron research queries. Supervised student workers working in circulation, periodicals, reference, and shelving during night and weekend shifts. Wrote code to facilitate library projects and processes. Organized, marketed and taught [instructional workshops][semprojworkshops] on the use of various technologies in seminary research. Wrote [online subject guides][libguides] on a variety of topics. <!-- - Projects included: designing an updated web interface for the library catalog, generating barcode labels for approximately 80,000 items from the Library catalog, fixing a broken reference statistics database, simplifying research processes, as well as various small scripts for inventory processing and data migration. -->
 
-**Bob Jones University, Greenville, SC** (2004--2006)  
+<!-- **Bob Jones University, Greenville, SC** (2004--2006)  
 *Student Lab Monitor* (Computer Science Lab)  
-Assisted students with class assignments. Designed an internal website for the Computer Science Department. 
+Assisted students with class assignments. Designed an internal website for the Computer Science Department.  -->
 
 ### Community Service
 
-**Foundation Baptist College, Edmonton, AB** (June 2011--present)   
+**Foundation Baptist College, Edmonton, AB** (June 2011--September 2013)   
 *Professor*  
-Teach Bible courses, manage library and maintain college web presence, among other duties.
+Taught Bible courses, managed library and maintained college web presence, among other duties.
 
 **Meadowlands Baptist Church, Edmonton, AB** (June--August 2011)  
 *Intern*  
