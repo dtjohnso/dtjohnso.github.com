@@ -1,0 +1,1 @@
+pandoc -H settings.sty --latex-engine=xelatex -o resume.pdf index.markdown --variable=urlcolor:black --variable=fontsize:12pt
