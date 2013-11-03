@@ -3,7 +3,7 @@ layout: post
 title: "Hoehner on Ephesians 4:4-6"
 date: 2013-11-03 14:34
 comments: true
-categories: 
+categories: Exegesis
 ---
 
 [![Hoehner on Ephesians](/images/2013/11/hoehner.jpg)][hoehner]
