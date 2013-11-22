@@ -72,6 +72,9 @@ Conducted bi-weekly Bible studies for the singles’ fellowship group. Taught va
 *Intern*  
 Exposed to and involved in all aspects of church ministry.
 
+### Professional Memberships
+
+* Canadian Baptist Historical Society
 
 [BobJones]: http://www.bju.edu/
 [BJUCompSciDept]: http://www.bju.edu/academics/college-and-schools/arts-and-science/mathematical-science/computer-science/
