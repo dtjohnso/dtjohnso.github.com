@@ -3,7 +3,7 @@ layout: post
 title: "Historical roots of local-church-onlyism"
 date: 2013-11-05 13:36
 comments: true
-categories: 
+categories: [Church History]
 ---
 
 I'd like to add a few comments on an interesting debate over at my Dad's blog about the New Testament's use of the term translated "church" (*ekklesia*). 
