@@ -74,7 +74,7 @@ Exposed to and involved in all aspects of church ministry.
 
 ### Professional Memberships
 
-* Canadian Baptist Historical Society
+Canadian Baptist Historical Society (2013--)
 
 [BobJones]: http://www.bju.edu/
 [BJUCompSciDept]: http://www.bju.edu/academics/college-and-schools/arts-and-science/mathematical-science/computer-science/
