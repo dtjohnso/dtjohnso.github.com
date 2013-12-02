@@ -56,6 +56,7 @@ If I ever do that, here are some things I would change:
 
 This project depends on code (specifically, the [Simile Exhibit Timeline plugin][simile]). As a result, there are always technical things that need maintenance, as well as technical opportunities that could be explored. Someday, here are some things that I'd love to get done to make this sort of project more useful.
 
+* Change the lens design to include links to copies of the original text of a document when available in a similar way to the wikipedia links.
 * Implement multiple datasets so the same code can be reused for each class where I give this as an assignment.
 * Upgrade the timeline code to take advantage of improvements in Simile Exhibit 3.0 (or one of the newer implementations that can be found in the [SIMILE Widgets Google Group][google-group]). Apparently there are [other projects out there that do similar things][alternatives] (some of which may even work better), but I'm too heavily invested in the Simile Exhibit framework to be interested in switching to an alternate platform right now.
 * Develop a better system for submitting entries that supports image upload and supports additional file formats (SVG was a problem). I'm not completely sure how I would set this up. Ultimately, I'd probably need to set up access to Amazon S3 storage, but there's no way to easily incorporate that into my current system where students submit entries via a Google Spreadsheets form and can immediately see the results on the timeline itself.
