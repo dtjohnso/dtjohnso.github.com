@@ -15,6 +15,7 @@ footer: true
 	- [Mark][mark]
 	- [1 and 2 Peter][1-2-peter]
 	- [Jude][jude]
+	- [Ephesians][ephesians]
 
 ## Past Projects  
 ### Library Subject Guides
@@ -36,3 +37,4 @@ I published these research guides during my time as a research assistant at the 
 [mark]: /projects/mark-worksheets.zip
 [1-2-peter]: /projects/peter-worksheets.zip
 [jude]: /projects/jude-worksheets.zip
+[ephesians]: /projects/ephesians-worksheets.zip
