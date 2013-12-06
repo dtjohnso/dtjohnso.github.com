@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Student Work Showcase: Baptist History Timeline"
-date: 2013-12-05 11:08
+date: 2013-12-06 11:08
 comments: true
 categories: [Church History, Pedagogy]
-published: false
+published: true
 ---
 
 [![Baptist History Timeline project](/images/2013/11/timeline.png)][timeline]
 
-This semester, students in my [Baptist History class][th106] were responsible for a [group project][project] to construct an [online timeline][timeline] of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries yesterday, I thought I'd share their work, write down my observations on the project as a classroom assignment, and note some ideas I've had for ways to use this in the future.
+This semester, students in my [Baptist History class][th106] were responsible for a [group project][project] to construct an [online timeline][timeline] of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I'd share their work, write down my observations on the project as a classroom assignment, and note some ideas I've had for ways to use this in the future.
 
 <!-- more -->
 
