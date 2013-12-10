@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Blog Archive
+title: Archive
 footer: false
 ---
+
+<section>
+  <h2>Categories</h2>
+  <ul id="categories">
+    {% category_list %}
+  </ul>
+</section>
 
 <div id="blog-archives">
 {% for post in site.posts reverse %}
@@ -15,4 +22,6 @@ footer: false
   {% include archive_post.html %}
 </article>
 {% endfor %}
+
+
 </div>

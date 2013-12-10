@@ -12,6 +12,7 @@ footer: true
 ### Courses taught
 
 * **Su201 Life of Christ.** ([Fall 2011][su201]) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
+* **Su401 Historical Books.** ([Spring 2014][su401]) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
 * **Pr103 Personal Evangelism.** ([Spring 2012][pr103]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 * **Ex201 Exposition of John's Gospel.** ([Fall 2012][ex201]) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
 * **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
@@ -61,6 +62,7 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 [ex402]: http://blogs.duncanjohnson.ca/ex402-2013
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
 [th106]: http://blogs.duncanjohnson.ca/th106-2013/
+[su401]: http://blogs.duncanjohnson.ca/su401-2014/
 
 [FBC]: http://www.foundationbaptistcollege.ca/
 [2013-03-09-English]: http://duncanjohnson.ca/blog/2013/03/09/history-of-the-english-bible/

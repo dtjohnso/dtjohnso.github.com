@@ -3,7 +3,7 @@ layout: post
 title: "History of the KJV-Only movement within Fundamentalism"
 date: 2013-03-11 11:25 AM
 comments: true
-categories: 
+categories: [Church History, Bibliology]
 published: true
 ---
 

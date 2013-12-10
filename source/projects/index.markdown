@@ -11,10 +11,12 @@ footer: true
 
 * [Isaiah Visualizations](/Isaiah-Visualizations/). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. 
 * [A Timeline of the English Bible](/English-Bible/). A timeline summarizing some of the relevant historical details in the history of the English Bible.
+* [Baptist History Timeline](/Baptist-History/). This timeline, produced by my students, gives important events for the history of the Baptist denomination. There is still work to be done on this timeline, some of which I've noted [here](/blog/2013/12/06/student-work-showcase-baptist-history-timeline/).
 * Adult Bible study group worksheets. During my time on staff at [Meadowlands Baptist Church][meadowlands], I was tasked with writing worksheets for use in conjunction with the passages studied during adult Bible study sessions on Sunday mornings. I wrote study sheets for several New Testament books. These worksheets are available for download in ZIP archives containing versions in Word and PDF format.
 	- [Mark][mark]
 	- [1 and 2 Peter][1-2-peter]
 	- [Jude][jude]
+	- [Ephesians][ephesians]
 
 ## Past Projects  
 ### Library Subject Guides
@@ -36,3 +38,4 @@ I published these research guides during my time as a research assistant at the 
 [mark]: /projects/mark-worksheets.zip
 [1-2-peter]: /projects/peter-worksheets.zip
 [jude]: /projects/jude-worksheets.zip
+[ephesians]: /projects/ephesians-worksheets.zip

@@ -3,7 +3,7 @@ layout: post
 title: "'That Inestimable Treasure': The History of the English Bible"
 date: 2013-03-09 12:00
 comments: true
-categories: 
+categories: [Church History, Bibliology]
 published: true
 ---
 
@@ -22,6 +22,8 @@ The history of the English Bible divides into three eras:
 1. The Medieval period (ca. 700--1500)
 2. The English Reformation to the 19th century (ca. 1500--1900)
 3. The 20th and 21st centuries (1901--2013)
+
+<!-- more -->
 
 ## 1. The Medieval period (ca. 700--1500)
 
