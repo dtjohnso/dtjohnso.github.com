@@ -11,10 +11,12 @@ published: false
 
 Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. This produced a number of different attempts to either 1) revise the KJV itself, or 2) produce a new translation using more contemporary English. Some of the more prominent attempts under each of these categories are listed below:
 
-- Proposed revisions of the KJV
+- Revisions in the Tyndale/KJV tradition
 	1. British Revised Version (RV; 1881--1885)
 	2. American Standard Version (ASV; 1901)
 	3. Revised Standard Version (RSV; 1952)
+	7. New Revised Standard Version (1990)
+	9. English Standard Version (2001)
 	4. New King James Version (NKJV; 1982)
 - Fresh translations
 	1. Jerusalem Bible (1966)
@@ -23,12 +25,14 @@ Around the turn of the 19th century, a consensus began to develop that the archa
 	4. Good News Bible (Today's English Version; 1976)
 	5. New International Version (1978; minor update 1984)
 	6. New Jerusalem Bible (1985)
-	7. New Revised Standard Version (1990)
 	8. Update to the NASB (1995)
-	9. English Standard Version (2001)
 	10. Today's New International Version (2005)
 	11. NET Bible (2005)
 	12. New International Version (2011 update)
+
+<!-- more -->
+
+![Translation Spectrum][spectrum]
 
 ## Revisions of the KJV
 
@@ -53,7 +57,13 @@ At this point, we will refer to a handout titled "Controversies relating to the 
 For some brief background on the ESV and HCSB, see William Combs' article in the bibliography, particularly pp. 11--15 and 21--22.
 
 
-### Select Bibliography
+## Additional Resources
+
+### Online media
+
+The material in this lecture is designed to be supplemented by an [interactive timeline project](/English-Bible/) which I've worked on as a hobby since mid-2011. Many of the events described here will show up in there, with links to additional reading on Wikipedia.
+
+### Further Reading
 
 Combs, William W. “The History of the NIV Translation Controversy.” *Detroit Baptist Seminary Journal* 17 (2012): 3–34. <http://www.dbts.edu/journals/2012/NIVCombs.pdf> (accessed December 6, 2013)
 
@@ -69,3 +79,4 @@ Wong, Simon. “Which King James Bible Are We Referring To?” *Bible Translator
 
 
 [english-bible-1]: http://duncanjohnson.ca/blog/2013/03/09/history-of-the-english-bible/
+[spectrum]: /images/2013/12/spectrum.png "Translation Spectrum"
