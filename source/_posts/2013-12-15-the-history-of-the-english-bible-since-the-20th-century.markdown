@@ -9,7 +9,10 @@ published: false
 
 *This post is intended as a follow-up to [my prior post][english-bible-1] on the history of the English Bible.*
 
-Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. This produced a number of different attempts to either 1) revise the KJV itself, or 2) produce a new translation using more contemporary English. Some of the more prominent attempts under each of these categories are listed below:
+Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. At first, most efforts were focused on revising the existing English translations (usually focusing on the translations in the Tyndale/KJV tradition). Despite these efforts, however, a growing market developed for fresh translations from the original text. 
+
+
+<!-- Reorganize listing below, or drop it entirely. -->
 
 - Revisions in the Tyndale/KJV tradition
 	1. British Revised Version (RV; 1881--1885)
@@ -42,7 +45,7 @@ Around the turn of the 19th century, a consensus began to develop that the archa
 
 ### New King James Version (1982)
 
-## Fresh translations (mostly)
+## Fresh translations (mostly) 
 
 ### New American Standard Bible (1971; 1995)
 
@@ -78,5 +81,5 @@ Stek, John. "The New International Version: How it Came to Be" in *The Challenge
 Wong, Simon. “Which King James Bible Are We Referring To?” *Bible Translator* 62, no. 1 (January 2011): 1–11. <http://www.ubs-translations.org/fileadmin/publications/tbt/technical/BT-62-1-Wong.pdf> (accessed December 6, 2013)
 
 
-[english-bible-1]: http://duncanjohnson.ca/blog/2013/03/09/history-of-the-english-bible/
+[english-bible-1]: /blog/2013/03/09/history-of-the-english-bible/
 [spectrum]: /images/2013/12/spectrum.png "Translation Spectrum"

@@ -13,7 +13,7 @@ published: true
 
 Readers of the English Bible have had the privilege of "the blessed continuance of the preaching of God’s sacred Word" now for centuries, a blessing that is dependent upon popular access to reliable English translations. At the time that the King James translators wrote these words, there were a handful of English translations available to the relatively small proportion of the world's population that spoke English. 
 
-Today, those circumstances have changed. Thanks to the growth of the British Empire in the Victorian era and today's trend toward globalization, English now serves as the trade language for the world. This burgeoning market of English readers has created a demand for updated translations, and today there is such a proliferation of English Bibles on the market that publishers now use slick marketing campaigns as they compete for readership.
+Today, those circumstances have changed. Thanks to the growth of the British Empire in the Victorian era and today's trend toward globalization, English now serves as the trade language for the world. This burgeoning market of English readers has created a demand for updated translations, and today there is such a proliferation of English Bibles on the market that publishers now use slick marketing campaigns as they Compete for readership.
 
 This lecture will attempt to explain how we arrived at this point from such humble beginnings. <!-- Include some learning objectives and more survey thoughts here about the overall outline of the article -->
 
@@ -130,6 +130,8 @@ The KJV eventually became the dominant English text. Wong notes that Blayney's e
 
 ## 3. The 20th and 21st centuries (1901--2011)
 
+[*Note:* The material in this section has been updated in my newer post on [The History of the English Bible Since the 20th Century](/blog/2013/12/15/the-history-of-the-english-bible-since-the-20th-century/)] 
+
 Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. This produced a number of different attempts to either 1) revise the KJV itself, or 2) produce a new translation using more contemporary English. Some of the more prominent attempts under each of these categories are listed below:
 
 - Proposed revisions of the KJV
@@ -172,8 +174,6 @@ The material in this lecture is designed to be supplemented by an [interactive t
 ### Select Bibliography
 
 Brake, Donald L. *A Visual History of the English Bible: The Tumultuous Tale of the World’s Bestselling Book.* Grand Rapids, MI: Baker Books, 2008.
-
-Combs, William W. “The History of the NIV Translation Controversy.” *Detroit Baptist Seminary Journal* 17 (2012): 3–34. <http://www.dbts.edu/journals/2012/NIVCombs.pdf> 
 
 McGrath, Alister E. *In the Beginning: The Story of the King James Bible and How It Changed a Nation, a Language, and a Culture.* 1st ed. New York: Doubleday, 2001.
 
