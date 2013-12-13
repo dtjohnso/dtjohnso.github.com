@@ -179,6 +179,8 @@ McGrath, Alister E. *In the Beginning: The Story of the King James Bible and How
 
 Nicolson, Adam. *God’s Secretaries: The Making of the King James Bible.* 1st ed. New York: HarperCollins, 2003.
 
+Norton, David. *A Textual History of the King James Bible.*Cambridge: University Press, 2004.
+
 Wong, Simon. “Which King James Bible Are We Referring To?” *Bible Translator* 62, no. 1 (January 2011): 1–11. <http://www.ubs-translations.org/fileadmin/publications/tbt/technical/BT-62-1-Wong.pdf>
 
 
