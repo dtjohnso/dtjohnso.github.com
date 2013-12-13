@@ -9,29 +9,36 @@ published: false
 
 *This post is intended as a follow-up to [my prior post][english-bible-1] on the history of the English Bible.*
 
-Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. At first, most efforts were focused on revising the existing English translations (usually focusing on the translations in the Tyndale/KJV tradition). Despite these efforts, however, a growing market developed for fresh translations from the original text. 
+Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. At first, most efforts were focused on revising the existing English translations (usually focusing on the translations in the Tyndale/KJV tradition). In addition to these efforts, a growing market developed for fresh translations from the original text. 
 
+A number of different factors combined to generate this interest in updated English translations. One reason for renewed interest in translation was the discovery of previously unknown manuscripts, such as Codex Sinaiticus in 1844[^2] and the Dead Sea Scrolls in 1947.[^1] Discoveries like these led to an increase in scholarly efforts to identify (as accurately as possible) the original wording of the Greek and Hebrew texts of Scripture. As the twentieth century progressed, translation style became a topic of debate.  .... developed that increased the public appetite for new translations. Beneath the surface 
 
-<!-- Reorganize listing below, or drop it entirely. -->
+* Foundational issues (aka minefields)
+	- Source Text: Impact of modern mss discoveries
+	- Production Method: Revision, translation, and paraphrase
+	- Translation Style: Formal equivalent vs. functional equivalent
+	- Grammar and politics: Gender inclusive language
+* The Story of the Modern English Bible
+	- Updates and revisions (1881--1952)
+	- New translations up to the NIV (1966--1984)
+	- Two decades of change (1990--2011)
 
-- Revisions in the Tyndale/KJV tradition
-	1. British Revised Version (RV; 1881--1885)
-	2. American Standard Version (ASV; 1901)
-	3. Revised Standard Version (RSV; 1952)
-	7. New Revised Standard Version (1990)
-	9. English Standard Version (2001)
-	4. New King James Version (NKJV; 1982)
-- Fresh translations
-	1. Jerusalem Bible (1966)
-	2. New American Bible and New English Bible (1970)
-	3. New American Standard Bible (1971)
-	4. Good News Bible (Today's English Version; 1976)
-	5. New International Version (1978; minor update 1984)
-	6. New Jerusalem Bible (1985)
-	8. Update to the NASB (1995)
-	10. Today's New International Version (2005)
-	11. NET Bible (2005)
-	12. New International Version (2011 update)
+1. British Revised Version (RV; 1881--1885)
+2. American Standard Version (ASV; 1901)
+3. Revised Standard Version (RSV; 1952)
+4. Jerusalem Bible (1966)
+5. New American Bible and New English Bible (1970)
+6. New American Standard Bible (1971)
+7. Good News Bible (Today's English Version; 1976)
+8. New King James Version (NKJV; 1982)
+9. New International Version (1978; minor update 1984)
+10. New Jerusalem Bible (1985)
+11. New Revised Standard Version (1990)
+12. Update to the NASB (1995)
+13. English Standard Version (2001)
+14. Today's New International Version (2005)
+15. NET Bible (2005)
+16. New International Version (2011 update)
 
 <!-- more -->
 
@@ -83,3 +90,6 @@ Wong, Simon. “Which King James Bible Are We Referring To?” *Bible Translator
 
 [english-bible-1]: /blog/2013/03/09/history-of-the-english-bible/
 [spectrum]: /images/2013/12/spectrum.png "Translation Spectrum"
+
+[^1]: “The Dead Sea Scrolls - Discovery and Publication,” accessed December 13, 2013, <<http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication>\>.
+[^2]: “Codex Sinaiticus - History,” accessed December 13, 2013, <<http://www.codexsinaiticus.org/en/codex/history.aspx>\>.
