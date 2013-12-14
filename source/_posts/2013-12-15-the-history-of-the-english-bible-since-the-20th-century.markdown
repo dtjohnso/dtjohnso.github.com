@@ -19,9 +19,11 @@ In the notes that follow, we will attempt to briefly describe the various issues
 
 ## Foundational issues
 
+In this section, we will attempt to provide a brief summary of the various issues that have been controversial in the recent history of the English Bible. Our goal here will be to simply define necessary terms and summarize contrasting viewpoints on the issues. Since many of these issues require knowledge of the original languages to be fully understood, we will not seek to "answer" or "settle" these questions here in any meaningful sense.
+
 ### Source Text: Impact of modern manuscript discoveries
 
-
+As already mentioned, the late 19th century was an exciting time in the field of manuscript studies. 
 
 ### Production Method: Revision, translation, and paraphrase
 
