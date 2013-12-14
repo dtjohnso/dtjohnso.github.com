@@ -23,7 +23,9 @@ In this section, we will attempt to provide a brief summary of the various issue
 
 ### Source Text: Impact of modern manuscript discoveries
 
-As already mentioned, the late 19th century was an exciting time in the field of manuscript studies. 
+As already mentioned, the late 19th century was an exciting time in the field of manuscript studies. Before we recount the discoveries of this period, however, we need to backtrack a few centuries and talk about the Greek manuscripts available to the translators of the KJV.
+
+During the reign of Henry VIII in England, Erasmus produced the first printed edition of the Greek New Testament. 
 
 ### Production Method: Revision, translation, and paraphrase
 
