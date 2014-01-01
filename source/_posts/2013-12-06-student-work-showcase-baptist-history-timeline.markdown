@@ -3,7 +3,7 @@ layout: post
 title: "Student Work Showcase: Baptist History Timeline"
 date: 2013-12-06 11:08
 comments: true
-categories: [Church History, Pedagogy]
+categories: [Church History, Pedagogy, Baptist History]
 published: true
 ---
 
