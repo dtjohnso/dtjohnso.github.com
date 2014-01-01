@@ -51,9 +51,9 @@ Conceived as a replacement for Robert Torbet's well-known text, *A History of th
 
 Predictably, the book reflects the denominational affiliation of its publisher, Judson Press. As the [publishing arm of the American Baptist Churches USA][about-judson], Judson Press represents a particular constituency of Baptists. The book emphasizes this strain of Baptist identity, tracing the development of the ABCUSA out of the Northern Baptist Convention in some detail in chapter 16.
 
-Unfortunately, the book omits or downplays some important events in Southern Baptist history. For instance, the extensive controversy over the modernism of Crawford H. Toy, professor at The Southern Baptist Theological Seminary from 1869--1879, receives no treatment. Toy is only mentioned as a missionary appointee to Japan who "never went because the [Foreign Mission Board] delayed all appointments in anticipation of the Civil War and related economic difficulties" (353) with his professorship at Southern relegated to an uncritical parenthesis. As [other reviewers have noted][duesing], the Conservative Resurgence in the SBC also receives scant mention.
+Unfortunately, the book omits or downplays some important events in Southern Baptist history. For instance, the extensive controversy over the modernism of Crawford H. Toy receives no treatment. Toy, though he was professor at The Southern Baptist Theological Seminary from 1869--1879, is only mentioned as a missionary appointee to Japan who "never went because the [Foreign Mission Board] delayed all appointments in anticipation of the Civil War and related economic difficulties" (353). His professorship at Southern appears only as a parenthesis, and there is no mention of his broken engagement to missionary Lottie Moon. As [other reviewers have noted][duesing], the Conservative Resurgence in the SBC also receives scant coverage, appearing only in summary on pages 414--415.
 
-<!-- In this section, also note the antipathy towards biblical literalism -->
+<!-- In this section, also note the antipathy towards biblical literalism, complain about distortion of Smyth's defection as caused by biblicism -->
 
 
 <!-- book value and contribution -->
