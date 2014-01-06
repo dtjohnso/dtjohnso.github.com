@@ -4,7 +4,7 @@ title: "Book Review - Baptist Ways: A History by Bill Leonard"
 date: 2014-01-05 16:00
 comments: true
 categories: [Books, Baptist History, Church History]
-published: true
+published: false
 ---
 
 ![Baptist Ways by Bill Leonard](/images/2014/01/leonard.jpg)
@@ -61,7 +61,7 @@ Throughout the work, Leonard draws primarily from secondary sources, although th
 
 Predictably, the book reflects the denominational affiliation of its publisher, Judson Press. As the [publishing arm of the American Baptist Churches USA][about-judson], Judson Press represents a particular constituency of Baptists. The book puts some emphasis on this strain of Baptist identity, tracing the development of the ABCUSA out of the Northern Baptist Convention in some detail in chapter 16.
 
-Unfortunately, the book omits or downplays some important events in Southern Baptist history. For instance, the extensive controversy over the modernism of Crawford H. Toy receives no treatment. Toy, though he was professor at The Southern Baptist Theological Seminary from 1869--1879, is only mentioned as a missionary appointee to Japan who "never went because the [Foreign Mission Board] delayed all appointments in anticipation of the Civil War and related economic difficulties" (353). His professorship at Southern appears only as an unremarkable parenthesis, and there is no mention of his broken engagement to missionary Lottie Moon. As [another reviewer has noted][duesing], the Conservative Resurgence in the SBC also receives scant coverage, appearing only in summary on pages 414--415.
+Unfortunately, the book omits or downplays some important events in Southern Baptist history. For instance, the extensive controversy over the modernism of Crawford H. Toy receives no treatment. Toy, though he was professor at The Southern Baptist Theological Seminary from 1869--1879, is only mentioned as a missionary appointee to Japan who "never went because the [Foreign Mission Board] delayed all appointments in anticipation of the Civil War and related economic difficulties" (353). His professorship at Southern appears only as an unremarkable parenthesis, and there is no mention of his broken engagement to missionary Lottie Moon. As [other reviewers][harper] [have noted][duesing], the Conservative Resurgence in the SBC also receives scant coverage, appearing only in summary on pages 414--415.
 
 Occasionally, the book suggests that an emphasis on biblical literalism results in erratic or erroneous conclusions. An early example of this pattern occurs in the treatment of John Smyth, the early sixteenth-century Baptist. Smyth was somewhat unstable, following a spiritual trajectory that parallels that of Roger Williams in America. Smyth began as an Anglican until he adopted Separatist views. Later, he founded the General Baptists along with Thomas Helwys by baptizing himself and then his own followers. This self-baptism brought criticism, and eventually Smyth repudiated his own baptism and sought admission into a nearby Mennonite sect. The book attributes Smyth's restlessness to his commitment to the Bible: "His biblicism took him through many Protestant communities in a search for the fullest revelation available" (25). Smyth was undoubtedly a biblicist, but there are other explanations for his repudiation of his self-baptism. On occasion, the book suggests that biblicism leads to other negative results, which will disappoint conservative readers.
 
@@ -74,3 +74,4 @@ Occasionally, the book suggests that an emphasis on biblical literalism results 
 [cbd]: http://www.christianbook.com/Christian/Books/product?event=AFF&p=1178855&item_no=012311
 [about-judson]: http://www.judsonpress.com/home_about_us.cfm
 [duesing]: http://www.baptisttheology.org/book-reviews/baptist-ways-a-history/
+[harper]: http://www.jstor.org/stable/30149574
