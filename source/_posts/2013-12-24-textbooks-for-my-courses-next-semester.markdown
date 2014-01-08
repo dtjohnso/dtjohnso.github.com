@@ -33,7 +33,7 @@ Available for purchase here:
 
 Hamilton, Victor P. *Handbook on the Historical Books: Joshua, Judges, Ruth, Samuel, Kings, Chronicles, Ezra-Nehemiah, Esther.* Grand Rapids, MI: Baker Academic, 2008. ISBN 9780801036149.
 
-Avaliable for purchase here:
+Available for purchase here:
 
 * ebook: [Amazon Kindle][hamilton-kindle]
 * Paperback: [Christian Book Distributors][hamilton-paperback]
