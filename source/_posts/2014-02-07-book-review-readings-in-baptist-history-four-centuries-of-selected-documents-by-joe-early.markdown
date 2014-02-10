@@ -9,7 +9,7 @@ published: false
 
 ![Readings in Baptist History by Joe Early](/images/2014/02/early.jpg)
 
-Early, Joe. *Readings in Baptist History: Four Centuries of Selected Documents.* Nashville, TN: B&H Academic, 2008. ISBN 9780805446746. 288 pages.
+Early, Joseph. *Readings in Baptist History: Four Centuries of Selected Documents.* Nashville, TN: B&H Academic, 2008. ISBN 9780805446746. 288 pages.
 
 Available for purchase from: 
 
@@ -19,6 +19,26 @@ Available for purchase from:
 
 ---
 
+<!-- 
+Commentary on Thesis
+sources used
+outline (breakdown of chapters)
+any theory(s) that shape interpretation
+value and unique contribution
+(sometimes) personal interaction
+-->
+
+By necessity, the study of history requires the perusal of historic texts. By devoting attention to primary sources, the student learns from the perspective of eyewitnesses and participants. Sometimes reading primary sources uncovers the student's own bias; at other times it presents the biases of the original actors in their own context. In studying any historical period or genre, beginning students oftentimes ignore important primary sources, not necessarily from lack of interest, but because those texts are scattered in various locations. A common remedy for this problem is a sourcebook, a published edition of key primary sources on a given topic. Joseph Early's *Readings in Baptist History* provides an up-to-date sourcebook of key Baptist history texts in one accessible volume. 
+
+This work fills a largely overlooked niche in the literature on Baptist history. In his preface, Early observes that although several books on Baptist history have appeared since H. Leon McBeth's *Baptist Heritage: Four Centuries of Baptist Witness* in 1987, no new sourcebook has been produced since the 1990 release of McBeth's companion volume, *A Sourcebook for Baptist Heritage.* In this work, Early adds newer documents while also including "seminal older documents" (v) to provide a comprehensive update.
+
+<!-- Things to include
+
+comment on lack of editorial comments for documents
+mention parallel columns for Baptist Faith and Message
+student reactions
+
+ -->
 
 
 
