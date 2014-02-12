@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Book Review - Readings in Baptist History: Four Centuries of Selected Documents by Joe Early"
-date: 2014-02-07 11:44
+date: 2014-02-12 13:05
 comments: true
 categories: [Books, Baptist History, Church History]
-published: false
 ---
 
 ![Readings in Baptist History by Joe Early](/images/2014/02/early.jpg)
@@ -19,37 +18,19 @@ Available for purchase from:
 
 ----
 
-<!-- 
-Commentary on Thesis
-sources used
-outline (breakdown of chapters)
-any theory(s) that shape interpretation
-value and unique contribution
-(sometimes) personal interaction
--->
-
 By necessity, the study of history requires the perusal of historic texts. By devoting attention to primary sources, the student learns from the perspective of eyewitnesses and participants. Sometimes reading primary sources uncovers the student's own bias; at other times it presents the biases of the original actors in their own context. In studying any historical period or genre, beginning students oftentimes ignore important primary sources, not necessarily from lack of interest, but because those texts are scattered in various locations. A common remedy for this problem is a sourcebook, a published edition of key primary sources on a given topic. Joseph Early's *Readings in Baptist History* provides an up-to-date sourcebook of key Baptist texts in one affordable volume. 
 
 This work fills a largely overlooked niche in the literature on Baptist history. In his preface, Early observes that although several books on Baptist history have appeared since H. Leon McBeth's *Baptist Heritage: Four Centuries of Baptist Witness* in 1987, no new sourcebook has been produced since the 1990 release of McBeth's companion volume, *A Sourcebook for Baptist Heritage.* In this work, Early adds newer documents while also including "seminal older documents" (v) to provide a comprehensive update. 
 
 In selecting texts for inclusion, Early seeks "to provide as broad a scope and be as inclusive as possible" (vi). As a result, representative texts from a variety of Baptist traditions appear within the collection, including "British Baptists, Black Baptists, American Baptists, Southern Baptists, Russian Baptists, Landmark Baptists, and Fundamental Baptists" (vi). Of course, selecting key texts to include means that some texts must be excluded, and Early notes that his selections were limited by word count and the interests of his intended audience of "students of Baptist history" (vi).
 
-The selections in the book are organized chronologically, beginning with texts from the exiled English General Baptists led by John Smyth and Thomas Helwys in 1609. The list below shows the breakdown of chapters by century, showing that the book exhibits a generally even distribution over the course of Baptist history. A complete chapter listing is included below this review for detailed analysis.
+The selections in the book are organized chronologically, beginning with texts from the exiled English General Baptists led by John Smyth and Thomas Helwys in 1609. The book exhibits a generally even distribution of texts over the course of Baptist history, with seven chapters from the seventeenth century, eight from the eighteenth century, twelve from the nineteenth century, and fourteen from the twentieth century. A complete chapter listing is included below this review for those interested in the details.
 
-* 17th century, 7 chapters                  
-* 18th century, 8 chapters                 
-* 19th century, 12 chapters                 
-* 20th century, 14 chapters                 
+One editorial decision is unfortunate, though based on admirable motives. In the interest of appealing to a broad readership, there are no editorial introductions to the various texts included in the work. Early indicates that he chose not to include comments on individual texts so that he would not "color the interpretation of the documents" (vi). Unfortunately, this means that students sometimes struggle to understand the significance and place of the documents within the broader context of Baptist history.
 
+Perhaps the most significant contribution of the book is that it includes documents relevant to the theological controversy within the Southern Baptist Convention. In the chapter that includes the Baptist Faith and Message, the three different versions (1925, 1963, 2000) are presented in three parallel columns for easy comparison.
 
-
-<!-- Things to include
-
-comment on lack of editorial comments for documents
-mention parallel columns for Baptist Faith and Message
-student reactions
-
--->
+My own students reacted to the book quite positively, although at first they seemed unexcited by the prospect of reading a collection of source texts. As their background knowledge of the Baptist story developed over the semester, they became more interested in the readings. By the end of the semester, some of my students were saying that they enjoyed reading Early even more than their other textbook.
 
 For a bibliography of supplemental readings, see [the review by Jason G. Duesing of Southwestern Baptist Theological Seminary][duesing].
 
