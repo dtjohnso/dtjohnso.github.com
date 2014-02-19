@@ -4,6 +4,7 @@ title: "Job search update"
 date: 2013-09-26 09:54
 comments: true
 categories: Personal
+published: false
 ---
 
 In a [previous post][job-search-again], I mentioned that I was transitioning out of my position at [Meadowlands][mbc].
