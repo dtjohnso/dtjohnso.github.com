@@ -4,7 +4,7 @@
   <title><![CDATA[DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2014-02-12T12:56:18-07:00</updated>
+  <updated>2014-03-10T10:49:56-06:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
 	<name><![CDATA[Duncan Johnson]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
+  
+  <entry>
+	<title type="html"><![CDATA[Block class on John's Epistles]]></title>
+	<link href="http://duncanjohnson.ca/blog/2014/03/10/block-class-on-johns-epistles/"/>
+	<updated>2014-03-10T10:00:00-06:00</updated>
+	<id>http://duncanjohnson.ca/blog/2014/03/10/block-class-on-johns-epistles</id>
+	<content type="html"><![CDATA[<p>I’ll be teaching a block class on John’s letters this coming April 28–May 3. I thought I’d share the book for this class (as well as some general information) below. More details (including the syllabus and assignment list) will be forthcoming soon on the <a href="http://blogs.duncanjohnson.ca/ex315-2014/">course website</a>.</p>
+<p><em>Description:</em> An exposition of 1, 2, and 3 John, with an emphasis on John’s theology.</p>
+<figure>
+<img src="http://duncanjohnson.ca/images/2014/03/tn_9780802825186.jpg" alt="The Epistles of John" /><figcaption>The Epistles of John</figcaption>
+</figure>
+<p><em>Textbook:</em> Marshall, I. Howard. <em>The Epistles of John.</em> New International Commentary on the New Testament. Grand Rapids, MI: Eerdmans, 2001. ISBN 9780802825186.</p>
+<p>Available for purchase here:</p>
+<ul>
+<li>eBook: <a href="http://www.amazon.ca/gp/product/B0028Y4AYS/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=B0028Y4AYS&amp;linkCode=as2&amp;tag=duncanjohns04-20">Amazon Kindle</a><br /> (<em>Note:</em> I wouldn’t recommend getting a technical commentary like this on Kindle, but this is a matter of preference.)</li>
+<li>Hardcover:
+<ul>
+<li><a href="http://www.amazon.ca/gp/product/0802825184/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=0802825184&amp;linkCode=as2&amp;tag=duncanjohns04-20">Amazon.ca</a></li>
+<li><a href="http://www.christianbook.com/Christian/Books/product?event=AFF&amp;p=1178855&amp;item_no=2189">Christian Book Distributors</a></li>
+</ul></li>
+</ul>]]></content>
+  </entry>
   
   <entry>
 	<title type="html"><![CDATA[Book Review - Readings in Baptist History: Four Centuries of Selected Documents by Joe Early]]></title>
@@ -297,25 +319,6 @@
   </entry>
   
   <entry>
-	<title type="html"><![CDATA[Job search update]]></title>
-	<link href="http://duncanjohnson.ca/blog/2013/09/26/job-search-update/"/>
-	<updated>2013-09-26T09:54:00-06:00</updated>
-	<id>http://duncanjohnson.ca/blog/2013/09/26/job-search-update</id>
-	<content type="html"><![CDATA[<p>In a <a href="http://duncanjohnson.ca/blog/2013/07/29/on-the-job-market-again/">previous post</a>, I mentioned that I was transitioning out of my position at <a href="http://www.meadowlandsbaptist.com/">Meadowlands</a>.</p>
-<p>Since then, I have accepted a full-time position at <a href="http://www.foundationbaptistcollege.ca/">Foundation Baptist College</a> as an administrator and member of the faculty, and I begin work in this new position on Monday.</p>]]></content>
-  </entry>
-  
-  <entry>
-	<title type="html"><![CDATA[On the job market again]]></title>
-	<link href="http://duncanjohnson.ca/blog/2013/07/29/on-the-job-market-again/"/>
-	<updated>2013-07-29T13:53:00-06:00</updated>
-	<id>http://duncanjohnson.ca/blog/2013/07/29/on-the-job-market-again</id>
-	<content type="html"><![CDATA[<p>Since last October, I’ve been employed at <a href="http://www.meadowlandsbaptist.com/">Meadowlands Baptist Church</a> in a staff role as the Church Administrator. Because of changing needs at the church, my position has come to an end and I am back on the job market again.</p>
-<p>My <a href="http://duncanjohnson.ca/resume/">resume</a> is available in a variety of formats, and I’m interested in talking to people about employment opportunities.</p>
-<p><em>[Edit Aug 2,2013]:</em> Several people have asked if I’m considering relocation. My intention is to remain in Edmonton where I continue to teach at <a href="http://www.foundationbaptistcollege.ca/">Foundation Baptist College</a>.</p>]]></content>
-  </entry>
-  
-  <entry>
 	<title type="html"><![CDATA[History of the KJV-Only movement within Fundamentalism]]></title>
 	<link href="http://duncanjohnson.ca/blog/2013/03/11/history-of-the-kjvo-movement-within-fundamentalism/"/>
 	<updated>2013-03-11T11:25:00-06:00</updated>
@@ -490,15 +493,6 @@
 <li id="fn8"><p>Ibid., 7.<a href="#fnref8">↩</a></p></li>
 </ol>
 </section>]]></content>
-  </entry>
-  
-  <entry>
-	<title type="html"><![CDATA[Hello World]]></title>
-	<link href="http://duncanjohnson.ca/blog/2013/01/01/Hello-World/"/>
-	<updated>2013-01-01T14:16:00-07:00</updated>
-	<id>http://duncanjohnson.ca/blog/2013/01/01/Hello-World</id>
-	<content type="html"><![CDATA[<h2 id="first-post">First post</h2>
-<p>duncanjohnson.ca is my new homepage. For now, most of my stuff still lives over at <a href="http://www.duncanandmeg.org">duncanandmeg.org</a>. However, some of it will be moving over here eventually. I’m pretty excited about blogging with <a href="http://octopress.org/">OctoPress</a> instead of old WordPress, so we’ll see how this goes.</p>]]></content>
   </entry>
   
 </feed>
