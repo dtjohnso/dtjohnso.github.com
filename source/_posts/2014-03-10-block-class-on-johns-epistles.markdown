@@ -4,10 +4,9 @@ title: "Block class on John's Epistles"
 date: 2014-03-10 10:00
 comments: true
 categories: Books
-published: false
 ---
 
-I'll be teaching a block class on John's letters this coming April 28--May 3. I thought I'd share the book for this class (as well as some general information) below. More details will be forthcoming on the [course website][course-site].
+I'll be teaching a block class on John's letters this coming April 28--May 3. I thought I'd share the book for this class (as well as some general information) below. More details (including the syllabus and assignment list) will be forthcoming soon on the [course website][course-site].
 
 *Description:* An exposition of 1, 2, and 3 John, with an emphasis on John’s theology.
 
