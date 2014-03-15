@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -8,7 +8,7 @@ footer: true
 ---
 
 [This resume is also available as a [PDF file](/resume/resume.pdf).]
-
+ -->
 ## Duncan Johnson
 
 <http://duncanjohnson.ca/>  
@@ -74,7 +74,8 @@ Exposed to and involved in all aspects of church ministry.
 
 ### Professional Memberships
 
-Canadian Baptist Historical Society (2013--)
+[Canadian Baptist Historical Society](https://www.facebook.com/canadianbaptisthistory) (2013--)  
+[Western Canada Baptist Fellowship](http://wcbf.net/) (2013--)
 
 [BobJones]: http://www.bju.edu/
 [BJUCompSciDept]: http://www.bju.edu/academics/college-and-schools/arts-and-science/mathematical-science/computer-science/
