@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: "Resume"
 date: 2013-07-29 09:37
@@ -8,7 +8,7 @@ footer: true
 ---
 
 [This resume is also available as a [PDF file](/resume/resume.pdf).]
- -->
+
 ## Duncan Johnson
 
 <http://duncanjohnson.ca/>  
