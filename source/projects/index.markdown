@@ -13,7 +13,7 @@ footer: true
 * [Timeline of Old Testament History](/OT-Timeline/). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, I anticipate that this project will be "in progress" for some time.
 * [A Timeline of the English Bible](/English-Bible/). A timeline summarizing some of the relevant historical details in the history of the English Bible.
 * [Baptist History Timeline](/Baptist-History/). This timeline, produced by my students, gives important events for the history of the Baptist denomination. There is still work to be done on this timeline, some of which I've noted [here](/blog/2013/12/06/student-work-showcase-baptist-history-timeline/).
-* Adult Bible study group worksheets. During my time on staff at [Meadowlands Baptist Church][meadowlands], I was tasked with writing worksheets for use in conjunction with the passages studied during adult Bible study sessions on Sunday mornings. I wrote study sheets for several New Testament books. These worksheets are available for download in ZIP archives containing versions in Word and PDF format.
+* Bible study worksheets. I help to coordinate the adult education program at [Meadowlands Baptist Church][meadowlands]. This involves writing weekly study worksheets for the passages studied in Sunday morning classes. I have written study sheets for several New Testament books. These worksheets are available for download in ZIP archives containing versions in Word and PDF format.
 	- [Mark][mark]
 	- [1 and 2 Peter][1-2-peter]
 	- [Jude][jude]
