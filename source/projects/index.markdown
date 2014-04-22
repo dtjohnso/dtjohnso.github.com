@@ -18,6 +18,7 @@ footer: true
 	- [1 and 2 Peter][1-2-peter]
 	- [Jude][jude]
 	- [Ephesians][ephesians]
+	- [1 Corinthians][1-corinthians]
 
 ## Past Projects  
 ### Library Subject Guides
@@ -40,3 +41,4 @@ I published these research guides during my time as a research assistant at the 
 [1-2-peter]: /projects/peter-worksheets.zip
 [jude]: /projects/jude-worksheets.zip
 [ephesians]: /projects/ephesians-worksheets.zip
+[1-corinthians]: /projects/1-corinthians-worksheets.zip
