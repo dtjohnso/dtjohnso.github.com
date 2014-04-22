@@ -9,7 +9,6 @@ footer: true
 
 ## Active Projects
 
-* [Isaiah Visualizations](/Isaiah-Visualizations/). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. 
 * [Timeline of Old Testament History](/OT-Timeline/). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, I anticipate that this project will be "in progress" for some time.
 * [A Timeline of the English Bible](/English-Bible/). A timeline summarizing some of the relevant historical details in the history of the English Bible.
 * [Baptist History Timeline](/Baptist-History/). This timeline, produced by my students, gives important events for the history of the Baptist denomination. There is still work to be done on this timeline, some of which I've noted [here](/blog/2013/12/06/student-work-showcase-baptist-history-timeline/).
@@ -21,6 +20,9 @@ footer: true
 	- [1 Corinthians][1-corinthians]
 
 ## Past Projects  
+
+* [Isaiah Visualizations](/Isaiah-Visualizations/). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. The timeline portion of this project has been superseded by my Timeline of Old Testament History mentioned above.
+
 ### Library Subject Guides
 
 I published these research guides during my time as a research assistant at the [Bob Jones University Mack Library][mack]. They contain valuable bibliographic and reference material for a variety of different topic areas. Other people are maintaining these now, but I did the vast majority of the work in producing these sites.
