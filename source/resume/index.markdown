@@ -17,10 +17,6 @@ duncan [at] duncanjohnson [dot] ca
 
 PO Box 92117, Meadowbrook RPO  
 Edmonton, AB T6T 1N1
-<!-- 
-### Objective
-
-To work to the glory of God and pay the bills. -->
 
 ### Education
 
@@ -55,6 +51,10 @@ Abstracted and cataloged popular and scholarly articles on religion, theology, b
 Assisted students with class assignments. Designed an internal website for the Computer Science Department.  -->
 
 ### Community Service
+
+**Meadowlands Baptist Church, Edmonton, AB** (2012--Present)  
+*Adult Sunday School Teacher*  
+Prepared and taught weekly Bible lessons.
 
 **Foundation Baptist College, Edmonton, AB** (June 2011--September 2013)   
 *Professor*  
