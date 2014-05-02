@@ -16,7 +16,7 @@ footer: true
 * **Pr103 Personal Evangelism.** ([Spring 2012][pr103]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 * **Ex201 Exposition of John's Gospel.** ([Fall 2012][ex201]) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
 * **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
-* **Ex315 Exposition of John's Epistles.** ([Spring 2014][ex315]) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
+* **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** ([Spring 2013][ex402]) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * **Th105 Church History Survey.** ([Spring 2014][th105]) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 * **Th106 Baptist History.** ([Fall 2013][th106]) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
@@ -63,7 +63,6 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
 [th106]: http://blogs.duncanjohnson.ca/th106-2013/
 [su401]: http://blogs.duncanjohnson.ca/su401-2014/
-[ex315]: http://blogs.duncanjohnson.ca/ex315-2014/
 
 [FBC]: http://www.foundationbaptistcollege.ca/
 [2013-03-09-English]: http://duncanjohnson.ca/blog/2013/03/09/history-of-the-english-bible/
