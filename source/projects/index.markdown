@@ -18,6 +18,7 @@ footer: true
 	- [Jude][jude]
 	- [Ephesians][ephesians]
 	- [1 Corinthians][1-corinthians]
+	- [2 Corinthians][2-corinthians]
 
 ## Past Projects  
 
@@ -44,3 +45,4 @@ I published these research guides during my time as a research assistant at the 
 [jude]: /projects/jude-worksheets.zip
 [ephesians]: /projects/ephesians-worksheets.zip
 [1-corinthians]: /projects/1-corinthians-worksheets.zip
+[2-corinthians]: /projects/2-corinthians-worksheets.zip
