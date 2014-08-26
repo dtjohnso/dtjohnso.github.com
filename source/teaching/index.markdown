@@ -20,7 +20,7 @@ footer: true
 * **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** ([Spring 2013][ex402]) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * **Th104 Bibliology.** (Spring 2015) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions.
-* **Th105 Church History Survey.** ([Spring 2014][th105], [Fall 2014][th105-fall-2014]) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
+* **Th105 Church History Survey.** ([Spring 2014][th105]) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 * **Th106 Baptist History.** ([Fall 2013][th106], Spring 2015) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
 * **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
 
@@ -65,7 +65,6 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 [ex201]: http://blogs.duncanjohnson.ca/ex201-2012
 [ex402]: http://blogs.duncanjohnson.ca/ex402-2013
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
-[th105-fall-2014]: http://blogs.duncanjohnson.ca/th105-fall-2014/
 [th106]: http://blogs.duncanjohnson.ca/th106-2013/
 [su401]: http://blogs.duncanjohnson.ca/su401-2014/
 
