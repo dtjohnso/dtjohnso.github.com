@@ -16,7 +16,7 @@ footer: true
 * **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience.
 * **Pr103 Personal Evangelism.** ([Spring 2012][pr103], [Fall 2014][pr103-fall-2014], Spring 2015) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 * **Ex201 Exposition of John's Gospel.** ([Fall 2012][ex201], Spring 2015) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
-* **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
+* **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204], [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
 * **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** ([Spring 2013][ex402]) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * **Th104 Bibliology.** (Spring 2015) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions.
@@ -62,6 +62,7 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 [pr103]: http://blogs.duncanjohnson.ca/pr103-2012
 [pr103-fall-2014]: http://blogs.duncanjohnson.ca/pr103-fall-2014/
 [ex204]: http://blogs.duncanjohnson.ca/ex204-2012
+[ex204-spring-2015]: http://blogs.duncanjohnson.ca/ex204-spring-2015/
 [ex201]: http://blogs.duncanjohnson.ca/ex201-2012
 [ex402]: http://blogs.duncanjohnson.ca/ex402-2013
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
