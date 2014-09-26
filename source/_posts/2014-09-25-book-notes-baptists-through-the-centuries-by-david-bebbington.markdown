@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Notice - Baptist Through the Centuries by David Bebbington"
+title: "Book Notes - Baptists Through the Centuries by David Bebbington"
 date: 2014-09-25 17:00
 comments: true
 categories: 
