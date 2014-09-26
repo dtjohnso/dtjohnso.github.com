@@ -26,9 +26,9 @@ This book takes an unusual, and interesting, approach to telling the story of th
 * It provides "an opportunity to highlight, to linger over specific moments so as to display the humanity, the complexity, and the uncertainties that constitute the actual history of the church, but that are so often obscured in trying to recount the sweep of centuries."
 * It provides "an opportunity to interpret, to state more specifically why certain events, actions, or incidents may have marked an important fork in the road or signaled a new stage in the outworking of Christian history." (2)
 
-The turning points Noll chose can be seen in the table of contents. [N.B.: The numbers in parentheses for each chapter are dates, not page numbers.]
+The turning points Noll chose can be seen in the table of contents, seen below. *[N.B.: The numbers in parentheses for each chapter are dates, not page numbers.]*
 
-*Contents*
+---
 
 Introduction: The Idea of Turning Points and Reasons for Studying the History of Christianity 
 
@@ -47,6 +47,8 @@ Introduction: The Idea of Turning Points and Reasons for Studying the History of
 13. Mobilizing for the Future: The Second Vatican Council (1962--65) and the Lausanne Congress on World Evangelization (1974)
 
 Afterword: The Character of Christianity and the Search for Turning Points
+
+---
 
 Noll emphasizes that "the fourteen turning points singled out for special attention ... are by no means the only ones that could have been selected" (3). He explains that the process of selection itself is an important and useful exercise, and notes that "if the book inspires others to think about why the turning points found here are not as important as other possibilities, it will have been a successful book" (4). He then briefly outlines the structure of each chapter, noting that he always begins with "a relatively detailed account of the turning point itself" followed by more theoretical discussions of "why, how, and so what" (4). Additionally, each chapter features a hymn and a prayer from the general time period of the chapter as well as several longer quotations from people involved in the events of the chapter. 
 
