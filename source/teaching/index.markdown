@@ -9,20 +9,29 @@ footer: true
 
 ## Foundation Baptist College
 
-### Courses taught
+### New Testament
 
 * **Su201 Life of Christ.** ([Fall 2011][su201], [Fall 2014][su201-fall-2014]) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
-* **Su401 Historical Books.** ([Spring 2014][su401]) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
-* **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience.
-* **Pr103 Personal Evangelism.** ([Spring 2012][pr103], [Fall 2014][pr103-fall-2014], Spring 2015) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 * **Ex201 Exposition of John's Gospel.** ([Fall 2012][ex201], Spring 2015) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
-* **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204], [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
 * **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** ([Spring 2013][ex402]) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
+* **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
+
+### Old Testament
+
+* **Su401 Historical Books.** ([Spring 2014][su401]) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
+* **Ex204 Exposition of Isaiah.** ([Summer 2012][ex204], [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
+
+### Practical Studies
+
+* **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience.
+* **Pr103 Personal Evangelism.** ([Spring 2012][pr103], [Fall 2014][pr103-fall-2014], Spring 2015) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+
+### Theology & Church History
+
 * **Th104 Bibliology.** (Spring 2015) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions.
 * **Th105 Church History Survey.** ([Spring 2014][th105]) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 * **Th106 Baptist History.** ([Fall 2013][th106], Spring 2015) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
-* **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
 
 ### Guest Lectures
 
@@ -53,9 +62,6 @@ Aug 26, 2010 	Faculty introduction 			28:22 				[Site 1][2010-08-26-Faculty-1]	[
 Apr 3, 2010 	Greek/Hebrew fonts 				26:06 				[Site 1][2010-04-03-Greek-1]	[Site 2][2010-04-03-Greek-2]
 Apr 3, 2010 	Turabian 						51:23 				[Site 1][2010-04-03-Turabian-1]	[Site 2][2010-04-03-Turabian-2]
 Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010-04-03-Zotero-2]
-
-\
-
 
 [su201]: http://blogs.duncanjohnson.ca/su201-2011
 [su201-fall-2014]: http://blogs.duncanjohnson.ca/su201-fall-2014/
