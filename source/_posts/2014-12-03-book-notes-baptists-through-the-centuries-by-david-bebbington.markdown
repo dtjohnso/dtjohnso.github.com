@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Book Notes - Baptists Through the Centuries by David Bebbington"
-date: 2014-09-25 17:00
+date: 2014-12-03 15:47
 comments: true
-categories: 
-published: false
+categories: [Books, Church History, Baptist History]
 ---
 
-![](http://www.baylorpress.com/content/50/4850)
+{% img images/2014/12/tn_4850.png %}
 
 Bebbington, David W. *Baptists through the Centuries: A History of a Global People.* Waco, TX: Baylor University Press, 2010.
 
