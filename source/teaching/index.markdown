@@ -25,7 +25,7 @@ footer: true
 ### Practical Studies
 
 * **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience.
-* **Pr103 Personal Evangelism.** (Spring 2012, [Fall 2014][pr103-fall-2014], [Spring 2015][pr103-spring-2015]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+* **Pr103 Personal Evangelism.** (Spring 2012, Fall 2014, [Spring 2015][pr103-spring-2015]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 
 ### Theology & Church History
 
