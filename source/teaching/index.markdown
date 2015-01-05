@@ -11,8 +11,8 @@ footer: true
 
 ### New Testament
 
-* **Su201 Life of Christ.** (Fall 2011, [Fall 2014][su201-fall-2014]) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
-* **Ex201 Exposition of John's Gospel.** (Fall 2012, Spring 2015) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
+* **Su201 Life of Christ.** (Fall 2011, Fall 2014) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
+* **Ex201 Exposition of John's Gospel.** (Fall 2012, [Spring 2015][ex201-spring-2015]) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
 * **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** (Spring 2013) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
@@ -71,6 +71,7 @@ Apr 3, 2010 	Zotero 							65:50 				[Site 1][2010-04-03-Zotero-1]	[Site 2][2010
 [ex204]: http://blogs.duncanjohnson.ca/ex204-2012
 [ex204-spring-2015]: http://blogs.duncanjohnson.ca/ex204-spring-2015/
 [ex201]: http://blogs.duncanjohnson.ca/ex201-2012
+[ex201-spring-2015]: http://blogs.duncanjohnson.ca/ex201-spring-2015/
 [ex402]: http://blogs.duncanjohnson.ca/ex402-2013
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
 [th106]: http://blogs.duncanjohnson.ca/th106-2013/
