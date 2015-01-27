@@ -33,7 +33,7 @@ There were three conferences this year commemorating Whitefield. I attended and 
 
 * "George Whitefield at 300: An International Tercentenary Conference" at Pembroke College, Oxford, 25--27 June 2014 - [Official page](http://www.mwrc.ac.uk/whitefield-conference/), followup post by [Jessica Parr](http://earlyamericanists.com/2014/07/10/guest-post-george-whitefield-at-300-conference-recap/) 
 * "Whitefield and the Great Awakening, Andrew Fuller Center for Baptist Studies 8th Annual Conference" at Southern Baptist Theological Seminary, 21--22 October 2014 - [My preview post](http://duncanjohnson.ca/blog/2014/10/11/whitefield-and-the-great-awakening-conference/), [Free video and audio of all the sessions](http://www.andrewfullercenter.org/blog/2014/11/video-and-audio-of-whitefield-and-the-great-awakening-conference/)
-* "George Whitefield at 300: Remembering the Eighteenth Century's Greatest Revivalist" at Baylor University, 13--14 November 2014 - [Official page](http://www.baylorisr.org/2014/11/whitefield-symposium/)
+* "George Whitefield at 300: Remembering the Eighteenth Century's Greatest Revivalist" at Baylor University, 13--14 November 2014 - [Official page](http://www.baylorisr.org/2014/11/whitefield-symposium/), [Video of panel sessions](http://www.youtube.com/playlist?list=PL0JmtbsEea3iQg4PphJ7luoOMjYxsO0Ns)
 
 ## Blog posts
 
@@ -115,3 +115,5 @@ Piper, John. *Seeing Beauty and Saying Beautifully: The Power of Poetic Effort i
 Ryle, J. C. *The Christian Leaders of England in the Eighteenth Century.* London, C.J. Thynne & Jarvis, 1868. Accessed December 17, 2014. Available at [Archive.org](http://archive.org/details/christianleaders00ryleuoft).
 
 Stout, Harry S. *The Divine Dramatist: George Whitefield and the Rise of Modern Evangelicalism.* Grand Rapids, Mich: Wm. B. Eerdmans Publishing Co., 1991. Available from [Amazon](http://www.amazon.ca/gp/product/0802801544/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=0802801544&linkCode=as2&tag=duncanjohns04-20) and [CBD](http://www.christianbook.com/Christian/Books/product?event=AFF&p=1178855&item_no=0154) or on [Kindle](http://www.amazon.ca/gp/product/B00352M9OK/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B00352M9OK&linkCode=as2&tag=duncanjohns04-20).
+
+[Update Jan 27, 2015: Added link to Baylor ISR conference session videos.]
