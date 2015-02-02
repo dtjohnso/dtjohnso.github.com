@@ -14,4 +14,4 @@ Every now and then, you hear somebody preach a sermon that really sticks in your
 
 I replayed this sermon for my students in my class on evangelism a year later (the link above goes to the website for that course), and I've listened to this message many times since. It came to mind again today as I was studying 2 Cor. 2:12--3:18.
 
-[sermon]: http://blogs.duncanjohnson.ca/pr103-2012/media/sermon-mans-wisdom-vs-gods-wisdom/
+[sermon]: http://www.sermonaudio.com/sermoninfo.asp?SID=32111153492
