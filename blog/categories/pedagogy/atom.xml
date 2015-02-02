@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pedagogy | DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/blog/categories/pedagogy/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2015-01-28T15:34:58-07:00</updated>
+  <updated>2015-02-02T11:51:30-07:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
     <name><![CDATA[Duncan Johnson]]></name>
@@ -19,7 +19,7 @@
     <updated>2013-12-06T11:08:00-07:00</updated>
     <id>http://duncanjohnson.ca/blog/2013/12/06/student-work-showcase-baptist-history-timeline</id>
     <content type="html"><![CDATA[<p><a href="http://duncanjohnson.ca/Baptist-History/"><img src="/images/2013/11/timeline.png" alt="Baptist History Timeline project" /></a></p>
-<p>This semester, students in my <a href="http://blogs.duncanjohnson.ca/th106-2013/">Baptist History class</a> were responsible for a <a href="http://blogs.duncanjohnson.ca/th106-2013/project/">group project</a> to construct an <a href="http://duncanjohnson.ca/Baptist-History/">online timeline</a> of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I’d share their work, write down my observations on the project as a classroom assignment, and note some ideas I’ve had for ways to use this in the future.</p>
+<p>This semester, students in my Baptist History class were responsible for a group project to construct an <a href="http://duncanjohnson.ca/Baptist-History/">online timeline</a> of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I’d share their work, write down my observations on the project as a classroom assignment, and note some ideas I’ve had for ways to use this in the future.</p>
 <!-- more -->
 <h2 id="thoughts-on-educational-value">Thoughts on Educational Value</h2>
 <p>As an assignment, I found that this was a useful project in several ways.</p>
@@ -41,7 +41,7 @@
 <p>This sort of project is something I’ve done by myself a few times before. Examples of my own efforts this way can be found on my <a href="/projects/">Projects page</a>. As I review the events which my students chose for their contributions, there are a number of things I would probably do differently.</p>
 <p>I have plenty of ideas for things that I could do with this project at some later date. These ideas roughly break down into three areas: 1) pedagogy, 2) content and 3) technical.</p>
 <h3 id="pedagogy">Pedagogy</h3>
-<p>One oversight in my <a href="http://blogs.duncanjohnson.ca/th106-2013/project/">project definition</a> was any reference to grammar, spelling, and capitalization. I shouldn’t need to worry about this at this level, but the simple reality is that my students tend to struggle with these things. This should factor into their marks, but it didn’t for this class because my expectations were too idealistic.</p>
+<p>One oversight in my project definition was any reference to grammar, spelling, and capitalization. I shouldn’t need to worry about this at this level, but the simple reality is that my students tend to struggle with these things. This should factor into their marks, but it didn’t for this class because my expectations were too idealistic.</p>
 <h3 id="content">Content</h3>
 <p>At some point, I’d like to take my students’ contributions, edit them, and put them into a fresh dataset that represents my own perspective on the history of Baptists. If I ever do this, I will keep the appropriate “Contributor” attribute in the dataset to acknowledge the original work of my students. In many ways, their submissions exhibit a level of passion that my own timeline projects have never had.</p>
 <p>If I ever do that, here are some things I would change:</p>
