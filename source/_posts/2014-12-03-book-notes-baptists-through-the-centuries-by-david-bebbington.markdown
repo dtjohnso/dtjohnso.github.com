@@ -6,7 +6,7 @@ comments: true
 categories: [Books, Church History, Baptist History]
 ---
 
-{% img images/2014/12/tn_4850.png %}
+{% img http://duncanjohnson.ca/images/2014/12/tn_4850.png %}
 
 Bebbington, David W. *Baptists through the Centuries: A History of a Global People.* Waco, TX: Baylor University Press, 2010.
 

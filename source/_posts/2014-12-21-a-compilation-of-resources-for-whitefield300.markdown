@@ -90,7 +90,7 @@ Belcher, Joseph. *George Whitefield: A Biography, with Special Reference to His 
 
 Dallimore, Arnold A. *George Whitefield: God's Anointed Servant in the Great Revival of the Eighteenth Century.* Westchester, Ill.: Crossway Books, 2010. Available from [Amazon](http://www.amazon.ca/gp/product/1433513412/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=1433513412&linkCode=as2&tag=duncanjohns04-20) and [CBD](http://www.christianbook.com/Christian/Books/product?event=AFF&p=1178855&item_no=513411) or on [Kindle](http://www.amazon.ca/gp/product/B00A0XABJM/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B00A0XABJM&linkCode=as2&tag=duncanjohns04-20).
 
-———. *George Whitefield: The Life and Times of the Great Evangelist of the Eighteenth-Century Revival.* 2 vols. London: Banner of Truth Trust, 1970. Available from [Amazon]("http://www.amazon.ca/gp/product/0851517307/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=0851517307&linkCode=as2&tag=duncanjohns04-20) and [CBD](http://www.christianbook.com/Christian/Books/product?event=AFF&p=1178855&item_no=517302).
+———. *George Whitefield: The Life and Times of the Great Evangelist of the Eighteenth-Century Revival.* 2 vols. London: Banner of Truth Trust, 1970. Available from [Amazon](http://www.amazon.ca/gp/product/0851517307/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=0851517307&linkCode=as2&tag=duncanjohns04-20) and [CBD](http://www.christianbook.com/Christian/Books/product?event=AFF&p=1178855&item_no=517302).
 
 Gillies, John. Memoirs of Rev. George Whitefield. Hunt & Noyes, 1839. Accessed December 17, 2014. Available at [Archive.org](http://archive.org/details/memoirsrevgeorg03whitgoog).
 

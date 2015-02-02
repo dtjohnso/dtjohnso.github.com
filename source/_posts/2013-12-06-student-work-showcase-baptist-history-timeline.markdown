@@ -9,7 +9,7 @@ published: true
 
 [![Baptist History Timeline project](/images/2013/11/timeline.png)][timeline]
 
-This semester, students in my [Baptist History class][th106] were responsible for a [group project][project] to construct an [online timeline][timeline] of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I'd share their work, write down my observations on the project as a classroom assignment, and note some ideas I've had for ways to use this in the future.
+This semester, students in my Baptist History class were responsible for a group project to construct an [online timeline][timeline] of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I'd share their work, write down my observations on the project as a classroom assignment, and note some ideas I've had for ways to use this in the future.
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ I have plenty of ideas for things that I could do with this project at some late
 
 ### Pedagogy
 
-One oversight in my [project definition][project] was any reference to grammar, spelling, and capitalization. I shouldn't need to worry about this at this level, but the simple reality is that my students tend to struggle with these things. This should factor into their marks, but it didn't for this class because my expectations were too idealistic.
+One oversight in my project definition was any reference to grammar, spelling, and capitalization. I shouldn't need to worry about this at this level, but the simple reality is that my students tend to struggle with these things. This should factor into their marks, but it didn't for this class because my expectations were too idealistic.
 
 ### Content
 
@@ -64,9 +64,7 @@ This project depends on code (specifically, the [Simile Exhibit Timeline plugin]
 
 
 
-[th106]: http://blogs.duncanjohnson.ca/th106-2013/
 [timeline]: http://duncanjohnson.ca/Baptist-History/
-[project]: http://blogs.duncanjohnson.ca/th106-2013/project/
 [google-group]: https://groups.google.com/forum/#!forum/simile-widgets
 [alternatives]: http://stackoverflow.com/questions/4700419/alternative-to-simile-timeline-for-timeline-visualization
 [simile]: http://simile-widgets.org/

@@ -19,7 +19,7 @@ Suggesting that the word "church" can mean anything other than a "local church" 
 
 I'd like to suggest one reason why local-church-only advocates cannot concede the existence of the universal church. (Of course, doing so requires that they ignore the plain reading of texts such as Ephesians 1:22--23, but for the exegesis I refer you again to [the original post][ox-part-1].)
 <!-- more -->
-The idea that the term "church" can only refer to a local assembly is simply a necessary corollary of Landmarkist theology. Landmarkism depends on an uninterrupted succession of local assemblies to support the theory that the "true church" comprises the Baptist tradition throughout the ages. This (widely discredited) view of history is known as [Baptist successionism][successionism].
+The idea that the term "church" can only refer to a local assembly is simply a necessary corollary of Landmarkist theology. Landmarkism depends on an uninterrupted succession of local assemblies to support the theory that the "true church" comprises the Baptist tradition throughout the ages. This (widely discredited) view of history is known as Baptist successionism.
 
 If a Landmarkist allows for a universal aspect to the church, he implies that genuine believers might be found outside of the supposed succession of local churches (the "Baptists") but within the scope of Christendom (including medieval Catholics). 
 
@@ -49,7 +49,6 @@ As an historical theory, successionism is bankrupt because it is based on an abs
 
 [ox-part-1]: http://oxgoad.ca/2013/10/22/ekklesia/
 [ox-part-2]: http://oxgoad.ca/2013/10/27/ekklesia-part-2/
-[successionism]: http://blogs.duncanjohnson.ca/th106-2013/lectures/lecture-1-theories-of-baptist-origins/
 [graves-small]: http://blogs.duncanjohnson.ca/th106-2013/wp-content/uploads/sites/2/2013/08/220px-JamesRobinsonGraves.jpg "J. R. Graves"
 
 [^1]: J. R. Graves quoted in Leon McBeth, *The Baptist Heritage* (Nashville, TN: Broadman Press, 1987), 450--451.

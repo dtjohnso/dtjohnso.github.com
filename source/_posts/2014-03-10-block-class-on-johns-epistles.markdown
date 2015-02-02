@@ -6,7 +6,7 @@ comments: true
 categories: Books
 ---
 
-I'll be teaching a block class on John's letters this coming April 28--May 3. I thought I'd share the book for this class (as well as some general information) below. More details (including the syllabus and assignment list) will be forthcoming soon on the [course website][course-site].
+I'll be teaching a block class on John's letters this coming April 28--May 3. I thought I'd share the book for this class (as well as some general information) below. 
 
 *Description:* An exposition of 1, 2, and 3 John, with an emphasis on John’s theology.
 
@@ -23,7 +23,6 @@ Available for purchase here:
 	- [Christian Book Distributors][book-cbd]
 
 
-[course-site]: http://blogs.duncanjohnson.ca/ex315-2014/
 [book-cover]: /images/2014/03/tn_9780802825186.jpg
 [book-kindle]: http://www.amazon.ca/gp/product/B0028Y4AYS/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B0028Y4AYS&linkCode=as2&tag=duncanjohns04-20
 [book-amazon]: http://www.amazon.ca/gp/product/0802825184/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=0802825184&linkCode=as2&tag=duncanjohns04-20
