@@ -1,0 +1,24 @@
+Removed extraneous entries from teaching page.
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/source/teaching/index.markdown b/source/teaching/index.markdown
+index 6f5d840..c06beac 100644
+--- a/source/teaching/index.markdown
++++ b/source/teaching/index.markdown
+@@ -24,12 +24,12 @@ footer: true
+ 
+ ### Practical Studies
+ 
+-* **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience.
++<!-- * **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience. -->
+ * **Pr103 Personal Evangelism.** (Spring 2012, Fall 2014, [Spring 2015][pr103-spring-2015]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+ 
+ ### Theology & Church History
+ 
+-* **Th104 Bibliology.** (Spring 2015) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions.
++<!-- * **Th104 Bibliology.** (Spring 2015) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions. -->
+ * **Th105 Church History Survey.** (Spring 2014) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
+ * **Th106 Baptist History.** (Fall 2013, Spring 2015) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
