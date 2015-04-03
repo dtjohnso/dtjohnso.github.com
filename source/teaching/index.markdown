@@ -20,7 +20,7 @@ footer: true
 ### Old Testament
 
 * **Su401 Historical Books.** (Spring 2014) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
-* **Ex204 Exposition of Isaiah.** (Summer 2012, [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.]
+* **Ex204 Exposition of Isaiah.** (Summer 2012, [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.
 * **Ex401 Exposition of the Psalms** Exposits select psalms representative of each genre and examines Hebrew poetry and the historical background of the Psalms.
 
 ### Practical Studies
