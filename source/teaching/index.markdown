@@ -12,7 +12,7 @@ footer: true
 ### New Testament
 
 * **Su201 Life of Christ.** (Fall 2011, Fall 2014) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
-* **Ex201 Exposition of John's Gospel.** (Fall 2012, [Spring 2015][ex201-spring-2015]) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
+* **Ex201 Exposition of John's Gospel.** (Fall 2012, Spring 2015) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
 * **Ex315 Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
 * **Ex402 Exposition of Mark.** (Spring 2013) An exposition of the gospel of Mark. Emphasizes its role in the synoptic gospels and its theme. Discusses how to interpret New Testament narrative as well as parabolic literature and discourse.
 * **AL401 Matthew in Greek.** (Fall 2013) Translation and exegesis of the first Gospel, with studies in syntax and vocabulary.
@@ -20,13 +20,13 @@ footer: true
 ### Old Testament
 
 * **Su401 Historical Books.** (Spring 2014) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
-* **Ex204 Exposition of Isaiah.** (Summer 2012, [Spring 2015][ex204-spring-2015]) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.
+* **Ex204 Exposition of Isaiah.** (Summer 2012, Spring 2015) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.
 * **Ex401 Exposition of the Psalms** Exposits select psalms representative of each genre and examines Hebrew poetry and the historical background of the Psalms.
 
 ### Practical Studies
 
 <!-- * **Pr102 Delivering Bible Messages.** (Spring 2015) Emphasizes the mechanics of message delivery. Provides the students (men and women) 4-5 opportunities to deliver a Bible message to a class or small group.  Explains proper message organization, proper use of voice and gestures, and meaningful interaction with the audience. -->
-* **Pr103 Personal Evangelism.** (Spring 2012, Fall 2014, [Spring 2015][pr103-spring-2015]) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+* **Pr103 Personal Evangelism.** (Spring 2012, Fall 2014, Spring 2015) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
 
 ### Theology & Church History
 
