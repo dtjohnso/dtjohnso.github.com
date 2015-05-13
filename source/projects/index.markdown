@@ -24,6 +24,7 @@ I use this page to organize links to various online projects that I've created i
 	- [1 Corinthians][1-corinthians]
 	- [2 Corinthians][2-corinthians]
 	- [1--3 John][1-3-john]
+	- [Gospel of John][john]
 * [Timeline of Old Testament History](/OT-Timeline/). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, I anticipate that this project will be "in progress" for some time.
 * [Isaiah Visualizations](/Isaiah-Visualizations/). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. The timeline portion of this project has been superseded by my "Timeline of Old Testament History" above.
 * [Biblical Commentaries (Technical)](http://libguides.bju.edu/commentaries). A subject guide that lists technical, conservative commentaries for the books of the Bible.
@@ -54,3 +55,4 @@ I published these research guides during my time as a research assistant at the 
 [1-corinthians]: /projects/1-corinthians-worksheets.zip
 [2-corinthians]: /projects/2-corinthians-worksheets.zip
 [1-3-john]: /projects/1-3John.zip
+[john]: /projects/john.zip
