@@ -24,7 +24,7 @@ I use this page to organize links to various online projects that I've created. 
 
 ## Bible study
 
-* **Bible study worksheets** ([Github repo](https://github.com/dtjohnso/bible-study-worksheets)). I have written study guides for several New Testament books, including John, 1 & 2 Corinthians, Ephesians, 1 & 2 Peter, 1--3 John, and Jude (among others).
+* **Bible study worksheets** ([Github repo](https://github.com/dtjohnso/bible-study-worksheets)). I have written study guides for several New Testament books, including <span>John, 1 & 2 Corinthians, Ephesians, 1 & 2 Peter, 1--3 John, and Jude</span> (among others).
 * **Timeline of Old Testament History** ([Website](/OT-Timeline/) ● [Github repo](https://github.com/dtjohnso/OT-Timeline)). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, there is much more that I'd like to add here someday.
 * **Isaiah Visualizations** ([Website](/Isaiah-Visualizations/) ● [Github repo](https://github.com/dtjohnso/Isaiah-Visualizations)). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. The timeline portion of this project has been superseded by my "Timeline of Old Testament History" above.
 * [Biblical Commentaries (Technical)](http://libguides.bju.edu/commentaries). A subject guide that lists technical, conservative commentaries for the books of the Bible.
