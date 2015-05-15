@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Teaching"
-date: 2013-03-04 11:19
 comments: true
 sharing: true
 footer: true
