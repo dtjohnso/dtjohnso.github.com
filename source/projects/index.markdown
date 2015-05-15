@@ -1,20 +1,21 @@
 ---
 layout: page
 title: "Projects"
-date: 2013-03-01 16:31
 comments: true
 sharing: true
 footer: true
 ---
 
-I use this page to organize links to various online projects that I've created in the past. This material is organized by category. In some cases, I link to both a newer and older version of the project.
+I use this page to organize links to various online projects that I've created. In some cases, I link to both a newer and older version of the project.
 
 ## Websites
 
-* [duncanandmeg.org](http://duncanandmeg.org) - I used this domain to create a website for my wedding, but since then have converted it into a simple landing page using Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/duncanandmeg.org).
-* [blogs.duncanjohnson.ca](http://blogs.duncanjohnson.ca/) - This is an installation of WordPress Multi-Site that I've used for various purposes, including course websites for my courses at Foundation Baptist College.
-* [moodle.duncanjohnson.ca](http://moodle.duncanjohnson.ca/) - An installation of the Moodle LMS that I've used with various courses at Foundation Baptist College.
+* duncanjohnson.ca ([Github repo](https://github.com/dtjohnso/dtjohnso.github.com)) - This site, powered by Octopress.
+* [blogs.duncanjohnson.ca](http://blogs.duncanjohnson.ca/) - An installation of WordPress Multi-Site that I've used for various purposes, including course websites for my courses.
+* [moodle.duncanjohnson.ca](http://moodle.duncanjohnson.ca/) - An installation of the Moodle LMS that I've used with some of my courses.
 * [texts.duncanjohnson.ca](http://texts.duncanjohnson.ca/) - An installation of Omeka that I built for a project. The goal is to create my own online notebook containing important historical primary source texts. I might switch this over to use gitit someday, something like what [Lincoln Mullen did here](https://github.com/lmullen/notebook).
+* [duncanandmeg.org](http://duncanandmeg.org) - A simple landing page created with Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/duncanandmeg.org).
+* [A Joyful Melody](http://www.joyfulmelody.ca/) - A site for my wife's violin studio, running WordPress.
 
 ## Software for Student Writing
 
@@ -24,7 +25,7 @@ I use this page to organize links to various online projects that I've created i
 ## Bible study
 
 * **Bible study worksheets** ([Github repo](https://github.com/dtjohnso/bible-study-worksheets)). I have written study guides for several New Testament books, including John, 1 & 2 Corinthians, Ephesians, 1 & 2 Peter, 1--3 John, and Jude (among others).
-* **Timeline of Old Testament History** ([Website](/OT-Timeline/) ● [Github repo](https://github.com/dtjohnso/OT-Timeline)). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, I anticipate that this project will be "in progress" for some time.
+* **Timeline of Old Testament History** ([Website](/OT-Timeline/) ● [Github repo](https://github.com/dtjohnso/OT-Timeline)). This timeline is based on my work with the Isaiah timeline, but expands it to include the history of Old Testament Israel. Because of the massive scope of Old Testament history, there is much more that I'd like to add here someday.
 * **Isaiah Visualizations** ([Website](/Isaiah-Visualizations/) ● [Github repo](https://github.com/dtjohnso/Isaiah-Visualizations)). I've created a timeline of relevant historical events in the book of Isaiah as well as a map. These visualizations were created to supplement course materials for Ex204 Exposition of Isaiah at Foundation Baptist College, Edmonton, AB. The timeline portion of this project has been superseded by my "Timeline of Old Testament History" above.
 * [Biblical Commentaries (Technical)](http://libguides.bju.edu/commentaries). A subject guide that lists technical, conservative commentaries for the books of the Bible.
 * [Biblical Exegesis](http://libguides.bju.edu/bible). Software and online resources for studying the biblical text.
