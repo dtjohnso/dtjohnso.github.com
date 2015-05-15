@@ -27,13 +27,6 @@
 	<script src="/javascripts/octopress.js" type="text/javascript"></script>
 	<link href="/atom.xml" rel="alternate" title="DuncanJohnson.ca" type="application/atom+xml">
 	<script src="/assets/cryptx/cryptx.js"></script>
-
-<!-- bib.ly integration -->
-<script src="http://code.bib.ly/bibly.min.js"></script>
-<link href="http://code.bib.ly/bibly.min.css" rel="stylesheet" />
-<script>
-	bibly.newWindow = true;
-</script>
 	
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -419,6 +412,30 @@
 
 
 
+<script type="text/javascript">//RefTagger
+var refTagger = {
+	settings: {
+		bibleVersion: "ESV",
+		libronixBibleVersion: "DEFAULT",
+		addLogosLink: false,
+		appendIconToLibLinks: false,
+		libronixLinkIcon: "",
+		noSearchClassNames: [],
+		useTooltip: true,
+		noSearchTagNames: ["h1", "h2", "h3", "h4", "h5", "h6", "span"],
+		linksOpenNewWindow: true,
+		convertHyperlinks: false,
+		socialSharing: [],
+		caseInsensitive: false,
+		tagChapters: true 
+	}
+};
+(function(d, t) {
+	var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+	g.src = "//api.reftagger.com/v2/RefTagger.js";
+	s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
 
 </body>
 </html>
