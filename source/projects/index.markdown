@@ -16,7 +16,7 @@ I use this page to organize links to various online projects that I've created. 
 * [texts.duncanjohnson.ca](http://texts.duncanjohnson.ca/) - An installation of Omeka that I built for a project. The goal is to create my own online notebook containing important historical primary source texts. I might switch this over to use gitit someday, something like what [Lincoln Mullen did here](https://github.com/lmullen/notebook).
 * [duncanandmeg.org](http://duncanandmeg.org) - A simple landing page created with Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/duncanandmeg.org).
 * [A Joyful Melody](http://www.joyfulmelody.ca/) - A site for my wife's violin studio, running WordPress.
-* [Western Canada Baptist Fellowship](http://wcbf.net/) - The WCBF is a pastor's fellowship. Previously, this website ran on concrete5. I took the site over when the previous maintainers no longer wished to oversee it, and converted it to a static site using Jekyll.
+* [Western Canada Baptist Fellowship](http://wcbf.net/) - The WCBF is a pastor's fellowship. Previously, this website ran on concrete5. I took the site over when the previous maintainers no longer wished to oversee it, and converted it to a static site using Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/wcbf/).
 
 ## Software for Student Writing
 
