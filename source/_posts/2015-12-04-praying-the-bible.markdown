@@ -8,7 +8,7 @@ categories: [Prayer, Bibliology]
 
 ![](http://blogs.duncanjohnson.ca/ex401-fall-2015/wp-content/uploads/sites/31/2015/09/502363271_72597af8e0_b-604x270.jpg)
 
-*In my recent class on the Psalms, we made a practice of praying the Psalms together at the beginning of each class section. The following is an excerpt from my lecture notes for that class where I introduce the concept of praying the words of Scripture.*
+*In my recent class on the Psalms, we made a practice of praying the Psalms together at the beginning of each class session. The following is an excerpt from my lecture notes for that class where I introduce the concept of praying the words of Scripture.*
 
 Don Whitney has recently written a book titled *Praying the Bible* (Crossway, 2015) which compiles a lot of the things he's learned about praying using Scripture over several years of thinking and teaching about this topic. 
 
