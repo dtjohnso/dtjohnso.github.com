@@ -130,7 +130,7 @@ The KJV eventually became the dominant English text. Wong notes that Blayney's e
 
 ## 3. The 20th and 21st centuries (1901--2011)
 
-[*Note:* The material in this section has been updated in my newer post on [The History of the English Bible Since the 20th Century](/blog/2013/12/15/the-history-of-the-english-bible-since-the-20th-century/)] 
+<!-- [*Note:* The material in this section has been updated in my newer post on [The History of the English Bible Since the 20th Century](/blog/2013/12/15/the-history-of-the-english-bible-since-the-20th-century/)]  -->
 
 Around the turn of the 19th century, a consensus began to develop that the archaic language of the KJV needed updating. This produced a number of different attempts to either 1) revise the KJV itself, or 2) produce a new translation using more contemporary English. Some of the more prominent attempts under each of these categories are listed below:
 
