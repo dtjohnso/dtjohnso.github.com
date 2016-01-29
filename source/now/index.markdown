@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "What I'm doing now"
-date: 2015-12-18
+date: 2015-01-29
 comments: true
 sharing: true
 footer: true
@@ -9,9 +9,9 @@ footer: true
 
 <!-- TODO: Always update the YAML date when making changes! -->
 
-I am currently preparing for Spring 2016 semester, which begins on January 25. I'll be out of the office for a couple weeks between now and then for holidays.
+I am presently in the midst of the Spring 2016 semester at Foundation Baptist College, which ends May 6, 2016.
 
-Once that semester begins, I'll be doing the following:
+This means that at present, I'm fully engaged in the following:
 
 * teaching five classes at Foundation Baptist College (two of which are brand-new to me and will require most of my time in preparation, one of which I'm teaching in two different sections to two different audiences)
 * writing lectures for the above-mentioned classes
