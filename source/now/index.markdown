@@ -19,6 +19,6 @@ This means that at present, I'm fully engaged in the following:
 * teaching a [Sunday School class at my church on the books of Galatians and then Romans](http://duncanjohnson.ca/blog/2015/12/18/a-study-in-galatians-and-romans/)
 * spending evenings and weekends with my wife and kids and occasionally with close friends
 * reading interesting books
-* skating
+* occasional bike rides as the weather gets warmer
 
 If my activities or priorities change, then I'll update this page.
