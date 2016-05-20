@@ -72,3 +72,5 @@ A Concluding Word---A Call to Seek God for Revival Today --- Robert Davis Smart
 	- Joel R. Beeke is the president of Puritan Reformed Theological Seminary in Grand Rapids, Michigan, where he also serves as professor of systematic theology and homiletics. In addition, he is a pastor of the Heritage Netherlands Reformed Congregation. 
 	- Iain D. Campbell is minister of Point Free Church of Scotland on the Isle of Lewis. Eifion Evans is a retired Presbyterian minister, having pastored churches in Wales and Northern Ireland. 
 	- Tom Nettles is a retired professor of historical theology from The Southern Baptist Theological Seminary in Louisville, Kentucky. He presently serves as senior professor of historical theology.
+
+*If you'd like to comment on this review, please post your thoughts on [Amazon.com](https://www.amazon.com/review/R2NBQZ2MK2AQX4) or [GoodReads](https://www.goodreads.com/review/show/1640977166). Thanks!*
