@@ -6,8 +6,7 @@ comments: true
 categories: ["Exegesis", "Books"]
 ---
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/S8apOz9BLIM?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube-nocookie.com/embed/S8apOz9BLIM?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 Starting in January, I'll be teaching through the books of Galatians and Romans in my adult Sunday School class at my church. This post is an expanded version of a blurb I wrote about the class for a church bulletin.
 
