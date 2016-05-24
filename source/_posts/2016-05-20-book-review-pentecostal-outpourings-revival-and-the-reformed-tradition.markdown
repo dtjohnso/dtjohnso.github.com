@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - Pentecostal Outpourings: Revival and the Reformed Tradition"
 date: 2016-05-20 17:00
 comments: true
-categories: [Books, Church History, Baptist History]
+categories: [Books, Church History, Baptist History, Revival]
 ---
 
 [cover-small]: http://duncanjohnson.ca/images/2016/05/Pentecostal-Outpourings-200x300.jpg
