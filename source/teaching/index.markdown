@@ -10,7 +10,7 @@ footer: true
 
 ### New Testament
 
-* **<span>Su102</span> New Testament Survey.** (Spring 2016) Presents the title, authorship, sources, purpose/occasion, date of composition, recipients, characteristics, theology and content of the New Testament books.
+* **<span>Su102</span> New Testament Messages.** (Spring 2016, Spring 2017) The unfolding theme of the Bible as it is revealed through the messages of the New Testament books, with discussion of key passages within each New Testament book.
 * **<span>Su201</span> Life of Christ.** (Fall 2011, Fall 2014) A survey of the life of Christ as recorded in the four canonical gospels, with an emphasis on the application of a traditional grammatical-historical hermeneutic to the biblical text.
 * **<span>Ex201</span> Exposition of John's Gospel.** (Fall 2012, Spring 2015) Analyzes major theological themes and exposits select portions in John. Highlights hermeneutical principles vital to a proper exposition of John's writings.
 * **<span>Ex315</span> Exposition of John's Epistles.** (Spring 2014) An exposition of 1, 2, and 3 John, with an emphasis on John's theology.
@@ -19,23 +19,23 @@ footer: true
 
 ### Old Testament
 
-* **<span>Su101</span> Old Testament Survey** (Fall 2015) Presents the progress of Old Testament history from creation to exile with particular attention given to the geography, chronology and cultural background of each of the books.
+* **<span>Su101</span> Old Testament Messages** (Fall 2015, Fall 2016) A study of the unfolding theme of the Bible as it is revealed through the messages of the Pentateuch and the history, poetry and prophecy books of the Old Testament.
 * **<span>Su401</span> Historical Books.** (Spring 2014) Overviews Joshua through Esther, emphasizing chronology and historical background. Highlights the introduction to each book (date of composition, author, occasion & purpose, and recipients) and themes. Discusses contemporary application.
 * **<span>Ex204</span> Exposition of Isaiah.** (Summer 2012, Spring 2015) An exposition of the book of Isaiah emphasizing the book's unified structure and thematic development. Includes discussion of how to structure a preaching series from Isaiah and vital hermeneutical principles within the book.
 * **<span>Ex401</span> Exposition of the Psalms** (Fall 2015) Exposits select psalms representative of each genre and examines Hebrew poetry and the historical background of the Psalms.
 
 ### Practical Studies
 
-
-* **<span>Pr101</span> Preparing Bible Messages** (Fall 2015) Discusses the methodology for preparing a message from a biblical text. Defines exposition and details the steps of explanation and application.
-* **<span>Pr103</span> Personal Evangelism.** (Spring 2012, Fall 2014, Spring 2015, Spring 2016) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+* **<span>Pr101</span> Preparing Bible Messages** (Fall 2015, Fall 2016) Discusses the methodology for preparing a message from a biblical text. Defines exposition and details the steps of explanation and application.
+* **<span>Pr103</span> Personal Evangelism.** (Spring 2012, Fall 2014, Spring 2015, Spring 2016, Spring 2017) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
+* **<span>Pr204</span> Hermeneutics** (Fall 2016) Focuses on principles of hermeneutics. Equips the student to accurately explain and apply the Scripture.
 
 ### Theology & Church History
 
-* **<span>Th101</span> Systematic Theology I** (Fall 2015) Introduces the student to the two disciplines of theology (biblical & systematic), and covers Bibliology, Theology Proper, Angelology, Anthropology, and Christology. Compares and contrasts the Covenant Theological and Dispensational systems.
-* **<span>Th104</span> Bibliology.** (Spring 2016) Examines the five-stage process of the communication of God's thoughts to man: revelation, inspiration, canonization, preservation and illumination. Concepts are defined, thoroughly discussed, and related to other fields of theology, with a special emphasis on English versions.
-* **<span>Th105</span> Church History Survey.** (Spring 2014, Fall 2015) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
-* **<span>Th106</span> Baptist History.** (Fall 2013, Spring 2016) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
+* **<span>Th101</span> Systematic Theology I** (Fall 2015, Fall 2016) Introduces the student to the two disciplines of theology (biblical & systematic), and covers Bibliology, Theology Proper, Angelology, Anthropology, and Christology.
+* **<span>Th104</span> Bibliology.** (Spring 2016, Spring 2017) Defines the nature of Scripture as divine revelation and describes the history of the sacred text. Explains the theological and practical implications of the Bible's inspiration and inerrancy while also summarizing the history of canonization, manuscript transmission, and translation.
+* **<span>Th105</span> Church History Survey.** (Spring 2014, Fall 2015, Fall 2016) Surveys the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
+* **<span>Th106</span> Baptist History.** (Fall 2013, Spring 2016, Spring 2017) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
 * **<span>Th313</span> Reformation**  (Spring 2016) Focuses on Luther, Calvin and Tyndale with the background of the pre-reformation period. Examines the contribution of each reformer to the doctrine and prosperity of the Reformation.
 
 ## Bob Jones University
