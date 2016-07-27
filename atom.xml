@@ -4,7 +4,7 @@
   <title><![CDATA[DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2016-07-12T12:59:29-06:00</updated>
+  <updated>2016-07-27T14:19:48-06:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
 	<name><![CDATA[Duncan Johnson]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
+  
+  <entry>
+	<title type="html"><![CDATA[Submitting assignments with Dropbox File Requests]]></title>
+	<link href="http://duncanjohnson.ca/blog/2016/07/27/submitting-assignments-with-dropbox-file-requests/"/>
+	<updated>2016-07-27T14:04:00-06:00</updated>
+	<id>http://duncanjohnson.ca/blog/2016/07/27/submitting-assignments-with-dropbox-file-requests</id>
+	<content type="html"><![CDATA[<p>For several of my classes, I’ve taken to using Dropbox’s “File Request” feature for having students submit writing assignments. It’s really easy for students to use:</p>
+<ol type="1">
+<li>Open the File Request link for your project</li>
+<li>Drag and drop the file</li>
+<li>Fill out and submit the form</li>
+<li>I get the file instantly</li>
+</ol>
+<p><strong>Note:</strong> If you don’t get an email confirmation from Dropbox, you didn’t do it correctly (usually that means you forgot to click “Submit”).</p>
+<p>Here’s a quick (7 seconds) video demo:</p>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed//VDl9jJbxO9o?rel=0" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p>Here’s <a href="https://www.dropbox.com/help/9090">how to make your own on the Dropbox help site</a>.</p>]]></content>
+  </entry>
   
   <entry>
 	<title type="html"><![CDATA[Carson and Keller on revival]]></title>
@@ -198,12 +220,7 @@ Introduction — Robert Davis Smart</p>
 	<content type="html"><![CDATA[<p><img src="http://duncanjohnson.ca/images/2014/12/whitefield.jpg"></p>
 <p>On 16 December 1714 (<a href="http://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates">O.S.</a>), George Whitefield was born at the Bell Inn, Southgate Street, Gloucester. This past week, his birthday was commemorated on Twitter with the hashtag <a href="https://twitter.com/hashtag/Whitefield300">#Whitefield300</a> at the suggestion of <a href="https://twitter.com/ThomasSKidd/status/539919555921862656">Whitefield biographer Thomas Kidd</a>.</p>
 <p>I used <a href="http://ifttt.com/">IFTTT</a> to archive the tweet stream. At first, I was just appending the tweets to an Evernote file. When I set that up, I didn’t know that IFTTT is limited to only 30 updates to Evernote per hour, which obviously didn’t work out too well once the volume picked up on the morning of December 16. Once I realized what was going on, I set up a Google Sheet to collect the tweet stream, and this seems to have been much more reliable.</p>
-<p>Below is my attempt to compile some of the resources available on Whitefield, including links to my Google Sheet and Evernote file. If I have missed anything of significance, please drop me a line (email <script type="text/javascript">
-<!--
-h='&#102;&#x6f;&#x75;&#110;&#100;&#x61;&#116;&#x69;&#x6f;&#110;&#98;&#x61;&#112;&#116;&#x69;&#x73;&#116;&#x63;&#x6f;&#108;&#108;&#x65;&#x67;&#x65;&#46;&#x63;&#x61;';a='&#64;';n='&#100;&#106;&#x6f;&#104;&#110;&#x73;&#x6f;&#110;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#100;&#x75;&#110;&#x63;&#x61;&#110;&#x2d;&#x61;&#116;&#x2d;&#100;&#x75;&#110;&#x63;&#x61;&#110;&#106;&#x6f;&#104;&#110;&#x73;&#x6f;&#110;&#x2d;&#100;&#x6f;&#116;&#x2d;&#x63;&#x61;'+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#100;&#x75;&#110;&#x63;&#x61;&#110;&#x2d;&#x61;&#116;&#x2d;&#100;&#x75;&#110;&#x63;&#x61;&#110;&#106;&#x6f;&#104;&#110;&#x73;&#x6f;&#110;&#x2d;&#100;&#x6f;&#116;&#x2d;&#x63;&#x61;&#32;&#40;&#100;&#106;&#x6f;&#104;&#110;&#x73;&#x6f;&#110;&#32;&#x61;&#116;&#32;&#102;&#x6f;&#x75;&#110;&#100;&#x61;&#116;&#x69;&#x6f;&#110;&#98;&#x61;&#112;&#116;&#x69;&#x73;&#116;&#x63;&#x6f;&#108;&#108;&#x65;&#x67;&#x65;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x61;&#x29;</noscript> or tweet <a href="https://twitter.com/dtjohnso">@dtjohnso</a>) and I’ll be glad to update the list.</p>
+<p>Below is my attempt to compile some of the resources available on Whitefield, including links to my Google Sheet and Evernote file. If I have missed anything of significance, please drop me a line (email <a href="mailto:djohnson@foundationbaptistcollege.ca">duncan-at-duncanjohnson-dot-ca</a> or tweet <a href="https://twitter.com/dtjohnso">@dtjohnso</a>) and I’ll be glad to update the list.</p>
 <!-- more -->
 <h2 id="whitefield300-tweets">#Whitefield300 Tweets</h2>
 <p>The tweet stream includes many Whitefield quotations, as well as links to other resources.</p>
@@ -705,55 +722,6 @@ Image credit: By Kowalker [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-
 <ul>
 <li>ebook: <a href="http://www.amazon.ca/gp/product/B00CFKX6I6/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=B00CFKX6I6&amp;linkCode=as2&amp;tag=duncanjohns04-20">Amazon Kindle</a></li>
 <li>Paperback: <a href="http://www.christianbook.com/Christian/Books/product?event=AFF&amp;p=1178855&amp;item_no=036149">Christian Book Distributors</a></li>
-</ul>]]></content>
-  </entry>
-  
-  <entry>
-	<title type="html"><![CDATA[Student Work Showcase: Baptist History Timeline]]></title>
-	<link href="http://duncanjohnson.ca/blog/2013/12/06/student-work-showcase-baptist-history-timeline/"/>
-	<updated>2013-12-06T11:08:00-07:00</updated>
-	<id>http://duncanjohnson.ca/blog/2013/12/06/student-work-showcase-baptist-history-timeline</id>
-	<content type="html"><![CDATA[<p><a href="http://duncanjohnson.ca/Baptist-History/"><img src="http://duncanjohnson.ca/images/2013/11/timeline.png" alt="Baptist History Timeline project" /></a></p>
-<p>This semester, students in my Baptist History class were responsible for a group project to construct an <a href="http://duncanjohnson.ca/Baptist-History/">online timeline</a> of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I’d share their work, write down my observations on the project as a classroom assignment, and note some ideas I’ve had for ways to use this in the future.</p>
-<!-- more -->
-<h2 id="thoughts-on-educational-value">Thoughts on Educational Value</h2>
-<p>As an assignment, I found that this was a useful project in several ways.</p>
-<ol type="1">
-<li>It created interest in the course by allowing students to explore areas of interest. Some of my students said that they didn’t like the class at first, but as a result of the project it was now one of their favorite classes.</li>
-<li>It encouraged my students to read widely from the literature.</li>
-<li>The atomistic nature of the assignment (30 separate timeline entries submitted in smaller assignments over the semester) was less intimidating than a 10-20 page paper on a single topic. This makes it an interesting project for a survey class, as it allows students with no prior knowledge or interest to expand their knowledge in any direction they choose.</li>
-<li>It forced my beginning history students to grapple with questions of significance as they analyzed historical events. In selecting events for their timeline contributions, students had to decide whether an event was truly significant for the grand story of the Baptists throughout history. Sometimes they made good choices and sometimes they didn’t, but the exercise itself helped to introduce them to the basics of selecting and evaluating evidence.</li>
-</ol>
-<p>Of course, there are some inherent weaknesses too.</p>
-<ol type="1">
-<li>Because it focuses on dates and data, the project doesn’t require the construction of a coherent argument or narrative. My goal was to supplement this deficiency through reading assignments and lectures, and to some extent student performance on assessments suggests that this actually worked.</li>
-<li>Because students come to the project with limited knowledge, their choices tend to reflect inherent prejudices and/or emphases from class lectures.</li>
-<li>Because students were required to submit a specific quota of events, they did not always select truly significant events. I tried to reflect that in my marks for their assignments, but overall I’m happy with the results of their work.</li>
-<li>Because it emphasizes finding separate events, it tends to result in superficial knowledge rather than deep comprehension.</li>
-</ol>
-<p>There are probably other observations I could make on the effect of this assignment, but this is enough for now. In summary, I thought it was a worthwhile project and a useful student assignment which I’ll repeat in future offerings of this class.</p>
-<h2 id="ideas-for-future-implementation">Ideas for Future Implementation</h2>
-<p>This sort of project is something I’ve done by myself a few times before. Examples of my own efforts this way can be found on my <a href="http://duncanjohnson.ca/projects/">Projects page</a>. As I review the events which my students chose for their contributions, there are a number of things I would probably do differently.</p>
-<p>I have plenty of ideas for things that I could do with this project at some later date. These ideas roughly break down into three areas: 1) pedagogy, 2) content and 3) technical.</p>
-<h3 id="pedagogy">Pedagogy</h3>
-<p>One oversight in my project definition was any reference to grammar, spelling, and capitalization. I shouldn’t need to worry about this at this level, but the simple reality is that my students tend to struggle with these things. This should factor into their marks, but it didn’t for this class because my expectations were too idealistic.</p>
-<h3 id="content">Content</h3>
-<p>At some point, I’d like to take my students’ contributions, edit them, and put them into a fresh dataset that represents my own perspective on the history of Baptists. If I ever do this, I will keep the appropriate “Contributor” attribute in the dataset to acknowledge the original work of my students. In many ways, their submissions exhibit a level of passion that my own timeline projects have never had.</p>
-<p>If I ever do that, here are some things I would change:</p>
-<ul>
-<li>I’d place less focus on individuals and organizations and more focus on concrete events. Although many of the individuals/organizations my students selected are important, I’m not sure that representing the duration of some of these peoples’ lives is truly significant for the full story of the Baptists. Some individuals truly were significant over the course of their life, such as Charles Spurgeon and William Carey. Others, though, are perhaps better remembered for a few accomplishments than for a lifetime of significant efforts, such as perhaps Benoi Stinson or Sarah Cummings.</li>
-<li>I’d reorganize the events under a more uniform set of categories that are defined in terms of specific chronological periods. At the beginning, I defined only three simple categories for my students: “English Particular Baptists,” “English General Baptists,” and “Baptists in America.” These categories are really only useful for telling the story of Baptists from their founding in the 1600s until around the end of the 18th century. After that, those categories become rather clunky. For instance, “Baptists in America” would probably make more sense if I changed it to “Baptists in America before 1845.” After 1845, I’d need to create separate categories for Northern and Southern Baptists, as well as other groups of Baptists that developed after that time.</li>
-<li>I’d edit my student entries to only include the most significant entries. In other words, in producing my own dataset based on their contributions, I’d filter out the submissions that where significance is questionable. I’d still retain their work in a data file that includes all the entries made by that particular class, but not all of those entries would make it into my edited version of the dataset.</li>
-<li>I’d also supplement student contributions to correct for lacunae. My students did some admirable work on this project, and in many cases identified truly significant events to display. However, they still missed a few truly significant things, either due to a lack of knowledge or interest. For instance, one of my students included several of Adoniram Judson’s wives, but not one of my students thought to create an entry for Adoniram Judson himself.</li>
-</ul>
-<h3 id="technical">Technical</h3>
-<p>This project depends on code (specifically, the <a href="http://simile-widgets.org/">Simile Exhibit Timeline plugin</a>). As a result, there are always technical things that need maintenance, as well as technical opportunities that could be explored. Someday, here are some things that I’d love to get done to make this sort of project more useful.</p>
-<ul>
-<li>Change the lens design to include links to copies of the original text of a document when available in a similar way to the wikipedia links.</li>
-<li>Implement multiple datasets so the same code can be reused for each class where I give this as an assignment.</li>
-<li>Upgrade the timeline code to take advantage of improvements in Simile Exhibit 3.0 (or one of the newer implementations that can be found in the <a href="https://groups.google.com/forum/#!forum/simile-widgets">SIMILE Widgets Google Group</a>). Apparently there are <a href="http://stackoverflow.com/questions/4700419/alternative-to-simile-timeline-for-timeline-visualization">other projects out there that do similar things</a> (some of which may even work better), but I’m too heavily invested in the Simile Exhibit framework to be interested in switching to an alternate platform right now.</li>
-<li>Develop a better system for submitting entries that supports image upload and supports additional file formats (SVG was a problem). I’m not completely sure how I would set this up. Ultimately, I’d probably need to set up access to Amazon S3 storage, but there’s no way to easily incorporate that into my current system where students submit entries via a Google Spreadsheets form and can immediately see the results on the timeline itself.</li>
-<li>Implement geo-code support within the timeline dataset, and then implement functionality to switch between timeline view and map view. Because geo-code data requires advanced technical skills to generate, this is not something I would require students to submit but would be nice to have in edited versions of the dataset.</li>
 </ul>]]></content>
   </entry>
   

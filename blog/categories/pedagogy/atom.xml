@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pedagogy | DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/blog/categories/pedagogy/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2016-07-12T12:59:29-06:00</updated>
+  <updated>2016-07-27T14:19:48-06:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
     <name><![CDATA[Duncan Johnson]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Submitting assignments with Dropbox File Requests]]></title>
+    <link href="http://duncanjohnson.ca/blog/2016/07/27/submitting-assignments-with-dropbox-file-requests/"/>
+    <updated>2016-07-27T14:04:00-06:00</updated>
+    <id>http://duncanjohnson.ca/blog/2016/07/27/submitting-assignments-with-dropbox-file-requests</id>
+    <content type="html"><![CDATA[<p>For several of my classes, I’ve taken to using Dropbox’s “File Request” feature for having students submit writing assignments. It’s really easy for students to use:</p>
+<ol type="1">
+<li>Open the File Request link for your project</li>
+<li>Drag and drop the file</li>
+<li>Fill out and submit the form</li>
+<li>I get the file instantly</li>
+</ol>
+<p><strong>Note:</strong> If you don’t get an email confirmation from Dropbox, you didn’t do it correctly (usually that means you forgot to click “Submit”).</p>
+<p>Here’s a quick (7 seconds) video demo:</p>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed//VDl9jJbxO9o?rel=0" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p>Here’s <a href="https://www.dropbox.com/help/9090">how to make your own on the Dropbox help site</a>.</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Guidelines for marking student papers]]></title>
