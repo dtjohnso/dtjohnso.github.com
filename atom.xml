@@ -4,7 +4,7 @@
   <title><![CDATA[DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2016-07-27T14:19:48-06:00</updated>
+  <updated>2016-07-29T10:10:56-06:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
 	<name><![CDATA[Duncan Johnson]]></name>
@@ -25,7 +25,7 @@
 <li>Fill out and submit the form</li>
 <li>I get the file instantly</li>
 </ol>
-<p><strong>Note:</strong> If you don’t get an email confirmation from Dropbox, you didn’t do it correctly (usually that means you forgot to click “Submit”).</p>
+<p><strong>Note:</strong> If you don’t get an email confirmation from Dropbox, you didn’t do it correctly (usually that means you forgot to click “Submit”). In that case, just try again.</p>
 <p>Here’s a quick (7 seconds) video demo:</p>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class="embed-container">
