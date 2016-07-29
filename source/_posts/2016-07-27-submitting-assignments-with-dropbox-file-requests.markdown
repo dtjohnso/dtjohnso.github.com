@@ -13,7 +13,7 @@ For several of my classes, I've taken to using Dropbox's "File Request" feature 
 3. Fill out and submit the form
 4. I get the file instantly
 
-**Note:** If you don't get an email confirmation from Dropbox, you didn't do it correctly (usually that means you forgot to click "Submit").
+**Note:** If you don't get an email confirmation from Dropbox, you didn't do it correctly (usually that means you forgot to click "Submit"). In that case, just try again.
 
 Here's a quick (7 seconds) video demo:
 
