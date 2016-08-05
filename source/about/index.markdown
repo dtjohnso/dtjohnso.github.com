@@ -1,4 +1,4 @@
-theology, exegesis, and tech.
+---
 layout: page
 title: "About"
 comments: false
