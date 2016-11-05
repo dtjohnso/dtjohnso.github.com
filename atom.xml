@@ -4,7 +4,7 @@
   <title><![CDATA[DuncanJohnson.ca]]></title>
   <link href="http://duncanjohnson.ca/atom.xml" rel="self"/>
   <link href="http://duncanjohnson.ca/"/>
-  <updated>2016-10-08T21:07:19-06:00</updated>
+  <updated>2016-11-04T20:31:36-06:00</updated>
   <id>http://duncanjohnson.ca/</id>
   <author>
 	<name><![CDATA[Duncan Johnson]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
+  
+  <entry>
+	<title type="html"><![CDATA[How Luther Became Right with God (and You Can Too!)]]></title>
+	<link href="http://duncanjohnson.ca/blog/2016/11/04/how-luther-became-right-with-god/"/>
+	<updated>2016-11-04T19:48:00-06:00</updated>
+	<id>http://duncanjohnson.ca/blog/2016/11/04/how-luther-became-right-with-god</id>
+	<content type="html"><![CDATA[<!-- Youtube -->
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container">
+<iframe src="https://www.youtube-nocookie.com/embed/3wQv6hM6ywQ?rel=0" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p>I had the opportunity to give a lecture by this title at <a href="http://www.meadowlandsbaptist.com/">Meadowlands Baptist Church</a> this past Sunday (30 October 2016). In the lecture, I describe some of the major events in Luther’s life from the <em>Ninety-five Theses</em> to the Diet of Worms in 1521, and then provide some reflections on the significance of Luther’s views on justification and sanctification. Much of the content in this video is adapted from material I prepared for the <a href="http://duncanjohnson.ca/blog/2016/10/08/reformation-conference-in-calgary/">Reformation Conference I spoke at in Calgary</a>.</p>
+<p>The video above includes my slides in the corner, but you can also download just the audio (if you prefer) from SermonAudio below.</p>
+<!-- SermonAudio -->
+<iframe style="min-width: 225px;" width="100%" height="150" frameborder="0" src="https://www.sermonaudio.com/saplayer/player_embed.asp?SID=1030162124543&amp;theme=light">
+</iframe>]]></content>
+  </entry>
   
   <entry>
 	<title type="html"><![CDATA[Reformation Conference in Calgary]]></title>
@@ -655,29 +673,6 @@ Image credit: By Kowalker [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-
 	<id>http://duncanjohnson.ca/blog/2014/04/05/timeline-of-old-testament-israel</id>
 	<content type="html"><![CDATA[<p>Today I am making available a project that I’ve only recently begun. This project had its genesis a few years back when I created a <a href="http://duncanjohnson.ca/Isaiah-Visualizations/">timeline of events relevant to the Old Testament book of Isaiah</a>.</p>
 <p>Last week, I took that work and expanded it into something I’ve had in mind for a while—a more comprehensive <a href="http://duncanjohnson.ca/OT-Timeline/">timeline of the history of Israel</a>. Right now, this only covers Old Testament Israel from the reign of Saul to the post-exilic period, and the details are sparse in some periods and heavy in others (esp. during the period of Isaiah’s life). There are many more things I’d like to do with this later, but I thought I’d make what I have so far available, especially since it’s relevant to the class I’m teaching right now on the Old Testament Historical Books.</p>]]></content>
-  </entry>
-  
-  <entry>
-	<title type="html"><![CDATA[Block class on John's Epistles]]></title>
-	<link href="http://duncanjohnson.ca/blog/2014/03/10/block-class-on-johns-epistles/"/>
-	<updated>2014-03-10T10:00:00-06:00</updated>
-	<id>http://duncanjohnson.ca/blog/2014/03/10/block-class-on-johns-epistles</id>
-	<content type="html"><![CDATA[<p>I’ll be teaching a block class on John’s letters this coming April 28–May 3. I thought I’d share the book for this class (as well as some general information) below.</p>
-<p><em>Description:</em> An exposition of 1, 2, and 3 John, with an emphasis on John’s theology.</p>
-<figure>
-<img src="http://duncanjohnson.ca/images/2014/03/tn_9780802825186.jpg" alt="The Epistles of John" /><figcaption>The Epistles of John</figcaption>
-</figure>
-<p><em>Textbook:</em> Marshall, I. Howard. <em>The Epistles of John.</em> New International Commentary on the New Testament. Grand Rapids, MI: Eerdmans, 2001. ISBN 9780802825186.</p>
-<p>Available for purchase here:</p>
-<ul>
-<li>eBook: <a href="http://www.amazon.ca/gp/product/B0028Y4AYS/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=B0028Y4AYS&amp;linkCode=as2&amp;tag=duncanjohns04-20">Amazon Kindle</a><br />
-(<em>Note:</em> I wouldn’t recommend getting a technical commentary like this on Kindle, but this is a matter of preference.)</li>
-<li>Hardcover:
-<ul>
-<li><a href="http://www.amazon.ca/gp/product/0802825184/ref=as_li_ss_tl?ie=UTF8&amp;camp=15121&amp;creative=390961&amp;creativeASIN=0802825184&amp;linkCode=as2&amp;tag=duncanjohns04-20">Amazon.ca</a></li>
-<li><a href="http://www.christianbook.com/Christian/Books/product?event=AFF&amp;p=1178855&amp;item_no=2189">Christian Book Distributors</a></li>
-</ul></li>
-</ul>]]></content>
   </entry>
   
 </feed>
