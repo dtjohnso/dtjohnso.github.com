@@ -3,7 +3,7 @@ layout: post
 title: "'That Inestimable Treasure': The History of the English Bible"
 date: 2013-03-09 12:00
 comments: true
-categories: [Church History, Bibliology]
+categories: [Church History, Bibliology, Reformation]
 published: true
 ---
 
