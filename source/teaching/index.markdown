@@ -28,7 +28,8 @@ footer: true
 
 * **<span>Pr101</span> Preparing Bible Messages** (Fall 2015, Fall 2016) Discusses the methodology for preparing a message from a biblical text. Defines exposition and details the steps of explanation and application.
 * **<span>Pr103</span> Personal Evangelism.** (Spring 2012, Fall 2014, Spring 2015, Spring 2016, Spring 2017) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
-* **<span>Pr204</span> Hermeneutics** (Fall 2016) Focuses on principles of hermeneutics. Equips the student to accurately explain and apply the Scripture.
+
+<!-- * **<span>Pr204</span> Hermeneutics** (Fall 2016) Focuses on principles of hermeneutics. Equips the student to accurately explain and apply the Scripture. -->
 
 ### Theology & Church History
 
