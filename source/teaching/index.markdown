@@ -6,6 +6,11 @@ sharing: true
 footer: true
 ---
 
+Recently, I've had a few unique speaking opportunities that are worth noting here. Otherwise, most of my teaching efforts have been carried out at Foundation Baptist College. I've listed course descriptions for my classes there below.
+
+* **How Luther Became Right With God (and You Can Too!)** (October 30, 2016). I had an opportunity to speak about Luther's life and impact at Meadowlands Baptist Church in Edmonton, AB. [Video and audio available](http://duncanjohnson.ca/blog/2016/11/04/how-luther-became-right-with-god/).
+* **Reformation Conference** (October 12--16, 2016). I gave a week-long seminar at Foundation Baptist Church in Calgary, AB that focused on Luther, Zwingli, and Calvin. Text and screen capture video from the [sessions is available here](http://blogs.duncanjohnson.ca/calgary-reformation-conference/).
+
 ## Foundation Baptist College
 
 ### New Testament
@@ -28,7 +33,6 @@ footer: true
 
 * **<span>Pr101</span> Preparing Bible Messages** (Fall 2015, Fall 2016) Discusses the methodology for preparing a message from a biblical text. Defines exposition and details the steps of explanation and application.
 * **<span>Pr103</span> Personal Evangelism.** (Spring 2012, Fall 2014, Spring 2015, Spring 2016, Spring 2017) Establishes the believer's obligation to evangelize. Demonstrates both the theology and methodologies for carrying out this obligation.
-* **<span>Pr204</span> Hermeneutics** (Fall 2016) Focuses on principles of hermeneutics. Equips the student to accurately explain and apply the Scripture.
 
 ### Theology & Church History
 
