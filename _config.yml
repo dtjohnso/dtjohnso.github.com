@@ -36,7 +36,7 @@ facebook_username: dtjohnso
 linkedin_username: djohnson16
 
 # Google Analytics
-google_analytics_tracking_id: UA-17819874-2
+google_analytics: UA-17819874-2
 
 # Build settings
 markdown: kramdown
