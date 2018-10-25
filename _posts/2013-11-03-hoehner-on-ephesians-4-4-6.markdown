@@ -6,7 +6,7 @@ comments: true
 categories: [Exegesis, Books]
 ---
 
-[![Hoehner on Ephesians](http://duncanjohnson.ca/images/2013/11/hoehner.jpg)][hoehner]
+[![Hoehner on Ephesians]({{ site.url }}/images/2013/11/hoehner.jpg)][hoehner]
 
 Today in my Adult Bible study class at [Meadowlands Baptist Church][] we discussed these verses in Ephesians 4:
 

@@ -28,5 +28,5 @@ As you might have noticed, I'm still a newbie with video recording and productio
 
 Well, I still have lots to learn about video production. I'm just glad that I'm done with it for now.
 
-[image-small]: http://duncanjohnson.ca/images/2016/08/video-production-small.jpg
-[image-large]: http://duncanjohnson.ca/images/2016/08/video-production.jpg
+[image-small]: {{ site.url }}/images/2016/08/video-production-small.jpg
+[image-large]: {{ site.url }}/images/2016/08/video-production.jpg

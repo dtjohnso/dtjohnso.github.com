@@ -6,7 +6,7 @@ comments: true
 categories: [Books, Baptist History, Church History]
 ---
 
-![Baptist Ways by Bill Leonard](http://duncanjohnson.ca/images/2014/01/leonard.jpg)
+![Baptist Ways by Bill Leonard]({{ site.url }}/images/2014/01/leonard.jpg)
 
 Leonard, Bill J. *Baptist Ways: A History.* Valley Forge, PA: Judson Press, 2003. ISBN 9780817012311. xiv + 464 pages. 
 

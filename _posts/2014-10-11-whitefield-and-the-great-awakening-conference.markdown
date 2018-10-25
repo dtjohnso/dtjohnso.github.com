@@ -6,7 +6,7 @@ comments: true
 categories: [Conferences, Church History, Books]
 ---
 
-![Whitefield and the Great Awakening](http://duncanjohnson.ca/images/2014/10/whitefield-conference.jpg)
+![Whitefield and the Great Awakening]({{ site.url }}/images/2014/10/whitefield-conference.jpg)
 
 I am looking forward to attending the annual conference for the Andrew Fuller Center for Baptist Studies this year on "George Whitefield and the Great Awakening."
 
@@ -25,7 +25,7 @@ Here are the session titles, taken from the [tentative schedule posted on the AF
 > Session 7: "The Legacy of George Whitefield" (David Bebbington)  
 > Session 8: "The Hymnody of the Great Awakening" (Esther Crookshank)  
 
-![George Whitefield: America's Spiritual Founding Father](http://duncanjohnson.ca/images/2014/10/tn_9780300181623.jpg)
+![George Whitefield: America's Spiritual Founding Father]({{ site.url }}/images/2014/10/tn_9780300181623.jpg)
 
 As another neat bonus, a few days ago I received my copy of Thomas Kidd's new biography titled *George Whitefield: America’s Spiritual Founding Father* (ISBN 9780300181623). I'm looking forward to digging into this book over the next few days. The hardcover is available from [Amazon][amazon] and [CBD][cbd], and there is also a [Kindle version][kindle] available.
 

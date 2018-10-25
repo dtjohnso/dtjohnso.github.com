@@ -6,7 +6,7 @@ comments: true
 categories: [Books, Church History]
 ---
 
-![Turning Points by Mark Noll](http://duncanjohnson.ca/images/2013/12/noll.jpg)
+![Turning Points by Mark Noll]({{ site.url }}/images/2013/12/noll.jpg)
 
 Noll, Mark A. *Turning Points: Decisive Moments in the History of Christianity.* 3rd ed. Grand Rapids: Baker Academic, 2012. ISBN 9780801039966. xii + 356 pages. Includes index.
 

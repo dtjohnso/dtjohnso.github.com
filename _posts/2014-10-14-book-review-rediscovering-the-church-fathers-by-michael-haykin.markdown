@@ -6,7 +6,7 @@ comments: true
 categories: [Church History, Books]
 ---
 
-![Rediscovering the Church Fathers](http://duncanjohnson.ca/images/2014/10/7260060-L.jpg)
+![Rediscovering the Church Fathers]({{ site.url }}/images/2014/10/7260060-L.jpg)
 
 Haykin, Michael A. G. *Rediscovering the Church Fathers: Who They Were and How They Shaped the Church.* Wheaton: Crossway, 2011. ISBN 9781433510434. 172 pages. Includes index.
 

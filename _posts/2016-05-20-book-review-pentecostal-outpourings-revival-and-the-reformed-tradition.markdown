@@ -6,8 +6,8 @@ comments: true
 categories: [Books, Church History, Baptist History, Revival]
 ---
 
-[cover-small]: http://duncanjohnson.ca/images/2016/05/Pentecostal-Outpourings-200x300.jpg
-[cover-large]: http://duncanjohnson.ca/images/2016/05/Pentecostal-Outpourings-682x1024.jpg
+[cover-small]: {{ site.url }}/images/2016/05/Pentecostal-Outpourings-200x300.jpg
+[cover-large]: {{ site.url }}/images/2016/05/Pentecostal-Outpourings-682x1024.jpg
 
 [amazon-ca-paperback]: http://www.amazon.ca/gp/product/1601784333/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=1601784333&linkCode=as2&tag=duncanjohns04-20
 [amazon-ca-kindle]: http://www.amazon.ca/gp/product/B01CZA6OZC/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B01CZA6OZC&linkCode=as2&tag=duncanjohns04-20

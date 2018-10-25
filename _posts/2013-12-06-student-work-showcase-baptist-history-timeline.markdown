@@ -7,7 +7,7 @@ categories: [Church History, Pedagogy, Baptist History]
 published: true
 ---
 
-[![Baptist History Timeline project](http://duncanjohnson.ca/images/2013/11/timeline.png)][timeline]
+[![Baptist History Timeline project]({{ site.url }}/images/2013/11/timeline.png)][timeline]
 
 This semester, students in my Baptist History class were responsible for a group project to construct an [online timeline][timeline] of key events in the history of the Baptist movement. It has been rather interesting to watch this project develop as the students submitted events and presented their findings to the class. Since my students submitted their final entries this week, I thought I'd share their work, write down my observations on the project as a classroom assignment, and note some ideas I've had for ways to use this in the future.
 

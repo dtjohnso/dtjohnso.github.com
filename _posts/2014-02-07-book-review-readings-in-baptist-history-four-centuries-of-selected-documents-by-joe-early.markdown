@@ -6,7 +6,7 @@ comments: true
 categories: [Books, Baptist History, Church History]
 ---
 
-![Readings in Baptist History by Joe Early](http://duncanjohnson.ca/images/2014/02/early.jpg)
+![Readings in Baptist History by Joe Early]({{ site.url }}/images/2014/02/early.jpg)
 
 Early, Joseph. *Readings in Baptist History: Four Centuries of Selected Documents.* Nashville, TN: B&H Academic, 2008. ISBN 9780805446746. 288 pages.
 

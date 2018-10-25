@@ -21,5 +21,5 @@ Much of what Ryle says is helpful, though some of it reflects the prevailing ide
 HT: [Steve Weaver](https://twitter.com/steveweaver/status/467830530336382977)  
 Image credit: By Kowalker [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons][ryle-credit]
 
-[ryle-small]: http://duncanjohnson.ca/images/2014/05/ryle.jpg "J. C. Ryle" 
+[ryle-small]: {{ site.url }}/images/2014/05/ryle.jpg "J. C. Ryle" 
 [ryle-credit]: http://commons.wikimedia.org/wiki/File:J_C_Ryle.jpg

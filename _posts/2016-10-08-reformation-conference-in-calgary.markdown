@@ -8,7 +8,7 @@ categories: [Church History, Conferences, Reformation]
 
 [luther-credit]: https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg
 
-![Luther at the Diet of Worms](http://duncanjohnson.ca/images/2016/10/luther.jpg "Luther at the Diet of Worms")  
+![Luther at the Diet of Worms]({{ site.url }}/images/2016/10/luther.jpg "Luther at the Diet of Worms")  
 
 I had the opportunity to speak about the Protestant Reformation at [Foundation Baptist Church](http://foundationbaptistchurch.com/) in Calgary. Below is a brief description. More information is available on the [conference website](http://blogs.duncanjohnson.ca/calgary-reformation-conference/).
 

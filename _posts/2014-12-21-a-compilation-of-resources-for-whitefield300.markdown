@@ -8,7 +8,7 @@ categories: [Church History, Books]
 
 [tweets-hashtag]: https://twitter.com/hashtag/Whitefield300
 
-![](http://duncanjohnson.ca/images/2014/12/whitefield.jpg)
+![]({{ site.url }}/images/2014/12/whitefield.jpg)
 
 On 16 December 1714 ([O.S.](http://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates)), George Whitefield was born at the Bell Inn, Southgate Street, Gloucester. This past week, his birthday was commemorated on Twitter with the hashtag [#Whitefield300][tweets-hashtag] at the suggestion of [Whitefield biographer Thomas Kidd](https://twitter.com/ThomasSKidd/status/539919555921862656).
 

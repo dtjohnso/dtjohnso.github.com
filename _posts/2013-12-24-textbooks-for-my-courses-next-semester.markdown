@@ -38,8 +38,8 @@ Available for purchase here:
 * ebook: [Amazon Kindle][hamilton-kindle]
 * Paperback: [Christian Book Distributors][hamilton-paperback]
 
-[noll-cover]: http://duncanjohnson.ca/images/2013/12/noll.jpg
-[hamilton-cover]: http://duncanjohnson.ca/images/2013/12/hamilton.jpg
+[noll-cover]: {{ site.url }}/images/2013/12/noll.jpg
+[hamilton-cover]: {{ site.url }}/images/2013/12/hamilton.jpg
 
 [th105]: http://blogs.duncanjohnson.ca/th105-2014/
 [su401]: http://blogs.duncanjohnson.ca/su401-2014/
