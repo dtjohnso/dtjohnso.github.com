@@ -35,6 +35,9 @@ github_username:  dtjohnso
 facebook_username: dtjohnso
 linkedin_username: djohnson16
 
+# Google Analytics
+google_analytics_tracking_id: UA-17819874-2
+
 # Build settings
 markdown: kramdown
 theme: minima
