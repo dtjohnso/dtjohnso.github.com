@@ -14,4 +14,4 @@ layout: home
 
 On this site I write about religious history, Christian theology, biblical exegesis, and technology. In tech, I mostly dabble in front-end web development and home automation.
 
-I also use this site to link together some of my various online [projects](/projects/). I've taught courses on the Bible and theology in a number of settings, and much of that work is described on my [Teaching](/teaching/) page.
+I also use this site to link together some of my various online [projects](/projects/). I've taught courses on the Bible and theology in a number of settings, and much of that work is described on my [teaching](/teaching/) page.
