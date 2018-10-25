@@ -27,10 +27,10 @@ description: >- # this means to ignore newlines until "url:"
   theology, biblical exegesis, and technology. In tech, I mostly
   dabble in front-end web development and home automation.
 
-url: "https://duncanjohnson.ca" 
 baseurl: ""
 twitter_username: dtjohnso
 github_username:  dtjohnso
+url: "https://duncanjohnson.ca" 
 
 # Build settings
 markdown: kramdown
@@ -43,6 +43,7 @@ plugins:
 # to override the default setting.
 exclude:
     - octopress/
+    - .tasks
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
