@@ -1,4 +1,6 @@
-☐ _config.yml
-☐ copy images and other assets to a folder
+✔ _config.yml @done (2018-10-25 10:08)
+✔ copy images to a folder @done (2018-10-25 09:08)
+☐ copy other assets to a folder
 ☐ rebuild pages as needed
 ☐ decide when to start branching out to pick themes
+☐ setup proper SSL
