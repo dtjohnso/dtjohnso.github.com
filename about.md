@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+comments: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Duncan Johnson]({{site.url}}/images/branding/duncan-grey-500x333.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, my name is Duncan. I'm a Canadian expat (hailing from Edmonton and previously Victoria) living deep in Tarheel country. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+On this site I write about religious history, Christian theology, biblical exegesis, and technology. In tech, I mostly dabble in front-end web development and home automation.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I also use this site to link together some of my various online [projects](/projects/). I've taught courses on the Bible and theology in a number of settings, and much of that work is described on my [Teaching](/teaching/) page.
