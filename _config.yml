@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "url:"
 
 url: "https://duncanjohnson.ca" 
 baseurl: ""
+permalink: /blog/:year/:month/:day/:title/
 twitter_username: dtjohnso
 github_username:  dtjohnso
 facebook_username: dtjohnso
