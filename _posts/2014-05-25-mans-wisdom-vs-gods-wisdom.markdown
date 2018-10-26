@@ -4,6 +4,7 @@ title: "Man's Wisdom vs. God's Wisdom"
 date: 2014-05-25 08:09
 comments: true
 categories: [Preaching, Exegesis, Evangelism]
+description: An excellent sermon on 1 Cor. 1:18.
 ---
 
 Every now and then, you hear somebody preach a sermon that really sticks in your memory. For me, this happened when I heard [this sermon][sermon] by Brent Cook in chapel at Bob Jones University. The message takes 1 Cor. 1:18 as its foundational text:

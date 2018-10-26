@@ -4,6 +4,8 @@ title: "A Compilation of Resources for #Whitefield300"
 date: 2014-12-21 15:34
 comments: true
 categories: [Church History, Books]
+description: Quotes and books on George Whitefield and the evangelical revival of the 1740s.
+image: /images/2014/12/whitefield.jpg
 ---
 
 [tweets-hashtag]: https://twitter.com/hashtag/Whitefield300

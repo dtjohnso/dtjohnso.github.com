@@ -4,6 +4,7 @@ title: "Preachers, Publishers, and Plagiarism"
 date: 2016-08-16 11:57
 comments: true
 categories: [Preaching, Books, Exegesis]
+description: Just yesterday, a plagiarism incident was exposed that should cause all Christ's church to pause and lament.
 ---
 
 Just yesterday, a plagiarism incident was exposed that should cause all Christ's church to pause and lament. And no, I'm not talking about whatever Melania Trump said at the Republican National Convention (which I didn't watch)---though I partly wish I were instead.

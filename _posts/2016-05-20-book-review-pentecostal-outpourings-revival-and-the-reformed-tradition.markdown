@@ -4,6 +4,8 @@ title: "Book Review - Pentecostal Outpourings: Revival and the Reformed Traditio
 date: 2016-05-20 17:00
 comments: true
 categories: [Books, Church History, Baptist History, Revival]
+description: "My review of Pentecostal Outpourings: Revival and the Reformed Tradition."
+image: /images/2016/05/Pentecostal-Outpourings-200x300.jpg
 ---
 
 [cover-small]: {{ site.url }}/images/2016/05/Pentecostal-Outpourings-200x300.jpg

@@ -4,6 +4,8 @@ title: "Reformation Conference in Calgary"
 date: 2016-10-08 20:48
 comments: true
 categories: [Church History, Conferences, Reformation]
+image: /images/2016/10/luther.jpg
+description: I had the opportunity to speak about the Protestant Reformation at a church in Calgary. This page gives links to my notes.
 ---
 
 [luther-credit]: https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D1%82%D0%B5%D1%80_%D0%B2_%D0%92%D0%BE%D1%80%D0%BC%D1%81%D0%B5.jpg

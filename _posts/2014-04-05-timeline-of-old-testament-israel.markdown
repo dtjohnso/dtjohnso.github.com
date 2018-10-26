@@ -4,6 +4,7 @@ title: "Timeline of Old Testament Israel"
 date: 2014-04-05 17:13
 comments: true
 categories: Projects
+descriptions: I've built an interactive online timeline of Old Testament history.
 ---
 
 Today I am making available a project that I've only recently begun. This project had its genesis a few years back when I created a [timeline of events relevant to the Old Testament book of Isaiah](http://duncanjohnson.ca/Isaiah-Visualizations/). 

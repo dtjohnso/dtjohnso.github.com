@@ -5,6 +5,7 @@ date: 2013-03-11 11:25 AM
 comments: true
 categories: [Church History, Bibliology]
 published: true
+description: Slides for a presentation describing the origins of the King James Only movement.
 ---
 
 Last Saturday I presented a lecture on the history of the King James Only movement within Fundamentalism. The [slides are now available][presentation].

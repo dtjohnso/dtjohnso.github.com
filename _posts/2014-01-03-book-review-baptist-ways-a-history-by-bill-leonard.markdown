@@ -4,6 +4,8 @@ title: "Book Review - Baptist Ways: A History by Bill Leonard"
 date: 2014-01-16 11:00
 comments: true
 categories: [Books, Baptist History, Church History]
+description: "My review of Baptist Ways: A History by Bill Leonard."
+image: /images/2014/01/leonard.jpg
 ---
 
 ![Baptist Ways by Bill Leonard]({{ site.url }}/images/2014/01/leonard.jpg)

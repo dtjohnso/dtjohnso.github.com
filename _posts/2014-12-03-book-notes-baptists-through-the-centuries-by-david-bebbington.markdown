@@ -4,6 +4,8 @@ title: "Book Notes - Baptists Through the Centuries by David Bebbington"
 date: 2014-12-03 15:47
 comments: true
 categories: [Books, Church History, Baptist History]
+description: "Some notes on 'Baptists through the Centuries: A History of a Global People' by David Bebbington."
+image: /images/2014/12/tn_4850.png
 ---
 
 ![]({{ site.url }}/images/2014/12/tn_4850.png)

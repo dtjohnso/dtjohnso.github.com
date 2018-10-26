@@ -4,10 +4,10 @@ title: "Doctrine of Assurance"
 date: 2014-11-08 22:05
 comments: true
 categories: [Theology, Books]
+description: Some helpful resources on the concept of assurance of salvation, or perseverance, from Wayne Grudem and Tim Challies.
 ---
 
-This Sunday in my Adult Sunday School class, I'll be taking advantage of a scheduled break in our [regular teaching schedule][meadowlands]. We just finished teaching through First, Second, and Third John last week, and will be beginning a study of John's Gospel on 
-November 16. To take advantage of the break in between books, I plan to focus on a topic that frequently arises in 1 John: assurance of salvation.
+This Sunday in my Adult Sunday School class, I'll be taking advantage of a scheduled break in our [regular teaching schedule][meadowlands]. We just finished teaching through First, Second, and Third John last week, and will be beginning a study of John's Gospel on November 16. To take advantage of the break in between books, I plan to focus on a topic that frequently arises in 1 John: assurance of salvation.
 
 In the Sunday School class, we'll be working through a number of Bible passages as they are presented in chapter 40 of Wayne Grudem's *Systematic Theology: An Introduction to Biblical Doctrine* (available from [Amazon.ca][grudem-amazon-ca], [Amazon.com][grudem-amazon-com], or [CBD][grudem-cbd]). His organization is helpful, and I find his comments on Hebrews 6:4--12 particularly useful. I'd recommend this chapter to anyone who is interested in a thorough understanding of Scripture on this topic.
 

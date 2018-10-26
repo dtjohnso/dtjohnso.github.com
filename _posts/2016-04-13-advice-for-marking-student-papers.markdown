@@ -4,6 +4,7 @@ title: "Guidelines for marking student papers"
 date: 2016-04-13 09:44
 comments: true
 categories: Pedagogy
+description: Helpful tips for grading papers from the University of Chicago Press.
 ---
 
 [turabian-site]: http://www.press.uchicago.edu/books/turabian/manual/index.html

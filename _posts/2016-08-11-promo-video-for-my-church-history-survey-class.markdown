@@ -3,7 +3,9 @@ layout: post
 title: "Promo Video for my Church History Survey class"
 date: 2016-08-11 06:10
 comments: true
-categories: 
+categories: [Church History]
+image: /images/2016/08/video-production-small.jpg
+description: How I made a promo video for my Church History class.
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//8cy3w85kcDU?rel=0' frameborder='0' allowfullscreen></iframe></div>

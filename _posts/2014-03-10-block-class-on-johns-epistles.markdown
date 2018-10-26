@@ -4,6 +4,8 @@ title: "Block class on John's Epistles"
 date: 2014-03-10 10:00
 comments: true
 categories: Books
+description: A good book on the books of 1--3 John.
+image: /images/2014/03/tn_9780802825186.jpg
 ---
 
 I'll be teaching a block class on John's letters this coming April 28--May 3. I thought I'd share the book for this class (as well as some general information) below. 

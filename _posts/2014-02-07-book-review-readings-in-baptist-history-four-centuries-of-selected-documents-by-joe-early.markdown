@@ -4,6 +4,8 @@ title: "Book Review - Readings in Baptist History: Four Centuries of Selected Do
 date: 2014-02-12 13:05
 comments: true
 categories: [Books, Baptist History, Church History]
+description: "My review of Readings in Baptist History: Four Centuries of Selected Documents by Joe Early."
+image: /images/2014/02/early.jpg
 ---
 
 ![Readings in Baptist History by Joe Early]({{ site.url }}/images/2014/02/early.jpg)

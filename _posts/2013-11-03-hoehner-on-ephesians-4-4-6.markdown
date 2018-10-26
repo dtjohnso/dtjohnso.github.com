@@ -4,6 +4,8 @@ title: "Hoehner on Ephesians 4:4-6"
 date: 2013-11-03 14:34
 comments: true
 categories: [Exegesis, Books]
+description: A helpful excerpt from Harold Hoehner's commentary on the book of Ephesians.
+image: /images/2013/11/hoehner.jpg
 ---
 
 [![Hoehner on Ephesians]({{ site.url }}/images/2013/11/hoehner.jpg)][hoehner]

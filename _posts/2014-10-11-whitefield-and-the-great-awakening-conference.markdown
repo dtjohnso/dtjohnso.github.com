@@ -4,6 +4,8 @@ title: "Whitefield and the Great Awakening conference"
 date: 2014-10-11 16:01
 comments: true
 categories: [Conferences, Church History, Books]
+description: A conference and a new biography celebrating the 300th anniversary of George Whitefield.
+image: /images/2014/10/tn_9780300181623.jpg
 ---
 
 ![Whitefield and the Great Awakening]({{ site.url }}/images/2014/10/whitefield-conference.jpg)

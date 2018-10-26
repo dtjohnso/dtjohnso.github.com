@@ -4,6 +4,8 @@ title: "Praying the Bible"
 date: 2015-12-04 16:55
 comments: true
 categories: [Prayer, Bibliology]
+description: There is a benefit to using the words of the Bible itself in our prayers.
+image: http://blogs.duncanjohnson.ca/ex401-fall-2015/wp-content/uploads/sites/31/2015/09/502363271_72597af8e0_b-604x270.jpg
 ---
 
 ![](http://blogs.duncanjohnson.ca/ex401-fall-2015/wp-content/uploads/sites/31/2015/09/502363271_72597af8e0_b-604x270.jpg)
