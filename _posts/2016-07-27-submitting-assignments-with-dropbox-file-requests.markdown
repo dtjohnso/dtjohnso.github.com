@@ -18,6 +18,6 @@ For several of my classes, I've taken to using Dropbox's "File Request" feature 
 
 Here's a quick (7 seconds) video demo:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//VDl9jJbxO9o?rel=0' frameborder='0' allowfullscreen></iframe></div>
+{% include youtubePlayer.html id='VDl9jJbxO9o' %}
 
 Here's [how to make your own on the Dropbox help site](https://www.dropbox.com/help/9090).

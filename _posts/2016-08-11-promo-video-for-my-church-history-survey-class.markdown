@@ -8,7 +8,7 @@ image: /images/2016/08/video-production-small.jpg
 description: How I made a promo video for my Church History class.
 ---
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//8cy3w85kcDU?rel=0' frameborder='0' allowfullscreen></iframe></div>
+{% include youtubePlayer.html id='8cy3w85kcDU' %}
 
 In Fall 2016, I'll be teaching Church History Survey at Foundation Baptist College. Come learn about the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 
