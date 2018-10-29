@@ -7,7 +7,7 @@ categories: ["Exegesis", "Books"]
 description: Paul's letters to the Galatians and the Romans focus on the essential core of the gospel message---salvation as justification by faith alone.
 ---
 
-{% include youtubePlayer.html id='S8apOz9BLIM' %}
+{% include myYoutubePlayer.html id='S8apOz9BLIM' %}
 
 Starting in January, I'll be teaching through the books of Galatians and Romans in my adult Sunday School class at my church. This post is an expanded version of a blurb I wrote about the class for a church bulletin.
 

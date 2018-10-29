@@ -8,7 +8,7 @@ image: /images/2016/08/video-production-small.jpg
 description: How I made a promo video for my Church History class.
 ---
 
-{% include youtubePlayer.html id='8cy3w85kcDU' %}
+{% include myYoutubePlayer.html id='8cy3w85kcDU' %}
 
 In Fall 2016, I'll be teaching Church History Survey at Foundation Baptist College. Come learn about the people, places and dates most important in understanding how the Holy Spirit has been saving, sanctifying and organizing people for the past two millennia.
 

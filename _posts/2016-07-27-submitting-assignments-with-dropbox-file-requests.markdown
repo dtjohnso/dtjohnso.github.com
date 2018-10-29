@@ -18,6 +18,6 @@ For several of my classes, I've taken to using Dropbox's "File Request" feature 
 
 Here's a quick (7 seconds) video demo:
 
-{% include youtubePlayer.html id='VDl9jJbxO9o' %}
+{% include myYoutubePlayer.html id='VDl9jJbxO9o' %}
 
 Here's [how to make your own on the Dropbox help site](https://www.dropbox.com/help/9090).
