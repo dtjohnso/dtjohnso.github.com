@@ -5,6 +5,7 @@ date: 2016-05-24 15:00
 comments: true
 categories: [Revival]
 description: Is true revival something that we can organize? How should we pray for it? Carson and Keller provide their reflections.
+published: false
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/98333778?byline=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
