@@ -10,3 +10,4 @@ categories: [Zotero]
 
 * [Turabian website](https://www.chicagomanualofstyle.org/turabian.html)
 * [Andy Naselli's blog on organizing your Zotero collections](http://andynaselli.com/personal-theological-library/)
+* [Zotero announces Google Docs support](https://www.zotero.org/blog/google-docs-integration/)
