@@ -84,57 +84,35 @@ Rather than giving a lengthy explanation about how citation managers work, let's
 	2.   Word processor plugin (nowadays usually installs with Zotero, but if not, you can download it on the plugins page)
 	3.   Browser connector (available for Chrome, Firefox, Opera)
 	4.   Turabian citation style settings 
-
 -   Zotero addon
-
     -   create an account at zotero.org
-
     -   set username and password in plugin
-
 -   Word plugin and Turabian style
 
 ### Find & save sources on catalog search pages (20 min)
 
 -   **Library catalog (single item; multiple from list)**
-
     -   **library.foundationbaptistcollege.com**
-
     -   **library.ualberta.ca**
-
     -   WorldCat
-
 -   **Amazon.com**
-
 -   Google Books
-
 -   Regular web page
-
 -   Manual entry
 
-**Organize** your notes (20 min)
+### Organize your notes (20 min)
 
 -   Fix errors
-
 -   **Collections & subcollections**
-
 -   **Tags**
-
 -   **Search & saved searches**
-
 -   Notes
 
-**Cite** your sources (use Lorem Ipsum) (20 min)
+### Cite your sources (use Lorem Ipsum) (20 min)
 
 -   Insert citations into the text.
-
 -   Create a bibliography.
-
 -   Move three citations.
-
 -   Refresh bibliography.
-
 -   Change style and refresh again.
-
 -   Remove Zotero codes and save document.
-
-
