@@ -2,7 +2,8 @@
 layout: post
 title: Writing software workshop for Joel Arnold
 date: 2019-03-11 08:00
-categories: [Zotero, Projects, Writing]
+categories: [Zotero, Writing]
+description: Notes for a workshop on using template files for Turabian style research papers in Microsoft Word, and how to organize and cite research sources using Zotero.
 ---
 
 This post contains my notes for a workshop demonstrating the use of Microsoft Word and Zotero for academic writing.
