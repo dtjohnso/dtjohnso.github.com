@@ -3,7 +3,7 @@ layout: post
 title: "Preachers, Publishers, and Plagiarism"
 date: 2016-08-16 11:57
 comments: true
-categories: [Preaching, Books, Exegesis]
+categories: [Preaching, Books, Exegesis, Writing]
 description: Just yesterday, a plagiarism incident was exposed that should cause all Christ's church to pause and lament.
 ---
 
