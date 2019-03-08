@@ -83,8 +83,8 @@ Rather than giving a lengthy explanation about how citation managers work, let's
 
 Zotero includes four essential components, three of which you have to install:
 
-1. Zotero Standalone
-2. Browser connector (available for Chrome, Firefox, Opera)
+1. Zotero
+2. Zotero browser connector (available for Chrome, Firefox, Opera)
 3. Word processor plugin (usually installs automatically with Zotero Standalone)
 4. If you need to use Turabian style, you have to add it to your Zotero Style Manager. Instructions on adding a citation styles are available [here](https://www.zotero.org/support/styles), and you can find Turabian in the Zotero Style Repository.
 
