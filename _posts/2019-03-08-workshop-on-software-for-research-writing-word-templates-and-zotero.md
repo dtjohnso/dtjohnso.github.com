@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop on software for research writing: Word templates and Zotero
-date: 2019-03-11 08:00
+date: 2019-03-08 10:06
 categories: [Zotero, Writing]
 description: Notes for a workshop on using template files for Turabian style research papers in Microsoft Word, and how to organize and cite research sources using Zotero.
 ---
