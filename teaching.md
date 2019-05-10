@@ -6,7 +6,7 @@ comments: false
 
 I've taught a number of classes in different areas. Much of this was done while in Edmonton, where I regularly taught in both adult Sunday School at Meadowlands Baptist Church and Bible college classes at Foundation Baptist College.
 
-## Church teaching opportunities
+## Churches
 
 * **Survey of the Psalms** (September 2017--March 2018). A [companion site](http://blogs.duncanjohnson.ca/psalms/) for an adult Sunday School class that I taught on the book of Psalms.
 * **Faithful Sayings: Confessions of Faith and Sound Theology** (January--May 2017). A [companion site](http://blogs.duncanjohnson.ca/creeds/) for an adult Sunday School class that I taught on the ancient Christian creeds.
@@ -44,8 +44,6 @@ I've taught a number of classes in different areas. Much of this was done while 
 * **<span>Th106</span> Baptist History.** (Fall 2013, Spring 2016, Spring 2017) Traces the history of the present Baptist movement back to 17th century England. Examines the three primary theories of Baptist history and traces the spread of Baptist teaching throughout England, North America and the world.
 * **<span>Th313</span> Reformation**  (Spring 2016) Focuses on Luther, Calvin and Tyndale with the background of the pre-reformation period. Examines the contribution of each reformer to the doctrine and prosperity of the Reformation.
 
-## Bob Jones University
+## Bob Jones University (Seminary Project Labs workshops)
 
-### Seminary Project Labs Workshops
-
-During 2010--2011, I developed and taught a series of workshops  the *[Seminary Project Labs]({{site.baseurl}}/projects/#software-for-student-writing)*. These were software workshops on the setup and use of Unicode Greek and Hebrew, a Turabian document template, and Zotero.
+During 2010--2011, I developed and taught a series of workshops  the *Seminary Project Labs*. These were software workshops on the setup and use of Unicode Greek and Hebrew, a Turabian document template, and Zotero. Along with the workshops, I produced a number of [online support resources]({{site.baseurl}}/projects/#software-for-student-writing).
