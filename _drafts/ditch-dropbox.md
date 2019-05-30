@@ -29,7 +29,9 @@ In the video below, Steve Dotto talks about why that's problematic, and introduc
 	- Demo
  -->
 
-At peak, I had about 150 GB of stuff stored in my Dropbox Plus account. When I switched to Sync, I took the time to clean up a bunch of junk that was in there, and was able to reduce my total synced footprint to about 100 GB. That's a 33% decrease in bloat. 
+At peak, I had about 150 GB of stuff stored in my Dropbox Plus account. When I switched to Sync, I took the time to clean up a bunch of junk that was in there, and was able to reduce my total synced footprint to about 100 GB. That's a 33% decrease in bloat right there.
+
+But more importantly, we need to look at what I had to pay to store this stuff with Sync. At Sync.com, I bought their lowest price personal tier, which gives 500GB for $50 per year. 
 
 <!-- Do a spreadsheet -->
 
