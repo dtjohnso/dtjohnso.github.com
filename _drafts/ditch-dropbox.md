@@ -34,3 +34,7 @@ At peak, I had about 150 GB of stuff stored in my Dropbox Plus account. When I s
 <!-- Do a spreadsheet -->
 
 For me, the benefits are that I pay about half as much annually for basically the same service, and my files are (at least theoretically) encrypted. 
+
+<!-- TODO: Is this convo relevant? 
+	https://twitter.com/dtjohnso/status/1067803090676535296
+-->
