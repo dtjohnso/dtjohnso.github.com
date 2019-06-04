@@ -1,42 +1,64 @@
 ---
 title: How I Saved Money and Lost Nothing by Ditching Dropbox for Sync.com
 layout: post
-date: 2019-05-30 10:16:06 
+date: 2019-06-04 10:03:26 
 comments: true
 categories: Software
-<!-- description: "" -->
+description: "Why I switched from Dropbox Plus to Sync.com and will probably never switch back."
 ---
 
-For years, I was a happy user of Dropbox. I even paid for it so I could store more stuff in there. Originally, the killer feature for me was that Dropbox would sync my files across all the devices I've owned. I've almost always had some combination of laptops and desktops (and eventually mobiles). This means that I need the ability to pick up where I left off on a project, regardless of what device I'm using.
+[sync-referral]: https://www.sync.com/?_sync_refer=857f710b0
 
-How much did I pay for Dropbox? Well, I paid for it for six years and one month. This cost me $99 USD per year, and that last month cost me $9.99 USD (more on that in a second). When I first started paying in 2013, that bought me 100GB of space, which was great. Two years later, Dropbox upped the max limit to 1TB. For several of those years, I was living in Canada, so I was actually paying these fees with Canadian dollars, which meant that I was paying approximately $130 CAD each year when you factor in exchange rate and hidden Paypal conversion fees (yes, they have those). Just in US dollars, though, that's $600 over the course of my time as a paying customer.
+For years, I was a happy user of Dropbox. At first I loved it so much I told all my friends and even earned 21 GB of extra space through referral credits. I eventually paid for it so I could store more stuff in there. The original killer feature was that Dropbox would sync my files across all my devices. I've always had some combination of laptops and desktops (and eventually mobiles). I often need to pick up where I had left off on a project, regardless of which device I sit behind. In the early aughts, that was amazing. Back then, standard Dropbox marketing copy was all about how it would render USB sticks obsolete.
 
-<!-- TODO: Decide if explaining the $10 transition cost is significant -->
+But I have just cancelled my paid Dropbox account with no plan to return. Here's why.
 
-As I write this, they've apparently again bumped that max limit up again to 2TB. But I don't care, and I've cancelled my paid account. Dropbox will no longer get any of my money.
+## Stagnation
 
-Why did I cancel? Why do I not care about having 2TB of space? Two reasons:
+Dropbox was innovative when I jumped on board in the early 2000's. No longer. File sync is no longer a unique value proposition, yet it remains their core feature. Most of their attempts to develop enjoyable and useful ancillary products failed. (My condolences to jilted Carousel and Mailbox app users everywhere... and let's not even talk about "Paper," which is as exciting as um, its closest precedent, the famously successful Google Wave.)
 
-1. I never came close to filling up my 1TB. In fact, the way my computer systems were set up, I never could. That extra terabyte that just got added wasn't even possible for me.
-2. Dropbox has never tried to offer me any kind of data privacy. In fact, they profit from my consent to let them analyze my data. Not cool.
+Many analysts believe that these cancelled products reflect a shift in Dropbox's interest from the private consumer to the corporate entity. This shift is allegedly linked to the company's transition to the public market. They may be right there, it's beyond my capability to assess that.
 
-In the video below, Steve Dotto talks about why that's problematic, and introduces the alternative that I've moved to instead, sync.com:
+But at the end of the day, I'm just one paying customer on the consumer product side of Dropbox's revenue model. And their apathy toward my type has been obvious. My last attempt to reach out to Dropbox with a [feature request is here](https://twitter.com/dtjohnso/status/1067803090676535296). Note that in this tweet I am asking about a feature that was first requested *three years* prior to my tweet. As congenial as the social media rep behind @DropboxSupport may have been in replies, it is also painfully obvious that my feedback was getting fed into the giant shredder of some feedback mechanism. And this has not been my only experience with that, it's just the most recent one.
+
+## Cost
+
+I paid for Dropbox for six years and one month. This cost me $99 USD per year, and that last month cost me $9.99 USD. When I first started paying in 2013, that bought me 100GB of space, which was great. Two years later, Dropbox upped the max limit to 1TB. 
+
+To add insult to injury, for several of those years I was living in Canada, so I was actually paying these fees with Canadian dollars. This meant that I was paying approximately $130 CAD each year when you factor in exchange rate and barely-hidden Paypal fees. Just in US dollars, though, that's $600 over the course of my time as a paying customer.
+
+Right after I decided to cancel, Dropbox bumped the max limit for my plan up again to 2TB. But I don't care. 
+
+You see, I never came close to filling up my 1 terabyte. In fact, the way my computers were set up, I never could. I house Dropbox on a 1 TB hard drive that I also use for other files, which meant that my Dropbox folder would always remain under 1TB (and certainly never approach 2TB). At peak, I had about 150 GB of stuff stored in my Dropbox Plus account.
+
+In other words, I was paying Dropbox more money to store the files that I wasn't creating than I was paying for the files I had created. To an extent, that will always be true with paid cloud storage. But it also means that a hypothetical increase in capacity from 1TB to 2TB is actually a psychological manipulative tactic that decreases Dropbox's costs while doing nothing to reduce mine. They know that most of their users never come close to maxing out their storage quotas, and [they also know that most of the files they store for people are basically abandoned shortly after creation](https://techcrunch.com/2019/05/06/dropbox-adds-cold-storage-layer-for-less-frequently-access-files/).
+
+Here's what my costs look like in real numbers. They are not encouraging. The case for renewing my Dropbox plan was not compelling.
+
+![](/images/2019/06/dropbox-costs-1.png)
+
+A couple notes about this chart:
+
+* I don't have precise records of my actual usage in GB year-by-year for 2013-2018, so the numbers here are basically an estimated progression up to the total (150 GB) that I know I had in there at the end of my time using Dropbox.
+* "Wasted Money" is defined as `([Capacity in GB] - [Usage in GB]) x [$/GB]`. Essentially, it's my "opportunity cost" summed up in cold hard numbers.
+
+## Data Privacy
+
+It's [well known that Dropbox has never tried to offer any kind of data privacy](https://en.wikipedia.org/wiki/Criticism_of_Dropbox). In fact, they profit from my consent to let them analyze my data. Not cool. For years, I just accepted this because there were few compelling alternatives, and avoided storing tax documents and other PII in Dropbox. But I never loved it.
+
+## Enter Sync.com from stage right
+
+Finally though, [an alternative has emerged][sync-referral]. Not only are they serious about attempting to provide security, but they offer all the core features at a reduced cost.
+
+This video from Steve Dotto was my introduction to [sync.com][sync-referral]. If you've made it this far, it's worth your time.
 
 {% include myYoutubePlayer.html id='I6JjCRNyRTg' %}
 
-<!--
- 	- "How Secure Is It?" Hmm...
-	- Demo
- -->
 
-At peak, I had about 150 GB of stuff stored in my Dropbox Plus account. When I switched to Sync, I took the time to clean up a bunch of junk that was in there, and was able to reduce my total synced footprint to about 100 GB. That's a 33% decrease in bloat right there.
+As I mentioned above, Dropbox bumped their base paid tier to 2TB a couple days ago. But that actually makes my costs look worse. Here's a comparison of money wastage:
 
-But more importantly, we need to look at what I had to pay to store this stuff with Sync. At Sync.com, I bought their lowest price personal tier, which gives 500GB for $50 per year. 
+![](/images/2019/06/dropbox-costs-2.png)
 
-<!-- Do a spreadsheet -->
+Yeah, I'm probably never going back.
 
-For me, the benefits are that I pay about half as much annually for basically the same service, and my files are (at least theoretically) encrypted. 
-
-<!-- TODO: Is this convo relevant? 
-	https://twitter.com/dtjohnso/status/1067803090676535296
--->
+*My links to sync.com here are referral links. Just like Steve Dotto's link on his video description, if you sign up using my link we both will get a small bonus in storage capacity.*
