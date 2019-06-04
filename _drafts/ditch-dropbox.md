@@ -25,7 +25,9 @@ At the end of the day though, I'm just one paying customer on the consumer produ
 
 I paid for Dropbox for six years and one month. This cost me $99 USD per year, and that last month cost me $9.99 USD. When I first started paying in 2013, that bought me 100GB of space, which was great. Two years later, Dropbox upped the max limit to 1TB. 
 
-To add insult to injury, for several of those years I was living in Canada, so I was actually paying these fees with Canadian dollars. This meant that I was paying approximately $130 CAD each year when you factor in exchange rate and barely-hidden Paypal fees. Just in US dollars, though, that's $600 over the course of my time as a paying customer.
+To add insult to injury, for several of those years I was living in Canada, so I was actually paying these fees with Canadian dollars. This meant that I was paying approximately $130 CAD each year when you factor in exchange rate and barely-hidden Paypal fees. 
+
+Just in US dollars, though, that's $600 over the course of my time as a paying customer.
 
 Right after I decided to cancel, Dropbox bumped the max limit for my plan up again to 2TB. But I don't care. 
 
