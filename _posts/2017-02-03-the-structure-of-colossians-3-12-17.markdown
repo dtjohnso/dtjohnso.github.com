@@ -3,7 +3,7 @@ layout: post
 title: "The Structure of Colossians 3:12-17"
 date: 2017-02-03 19:47 
 comments: true
-categories: [Exegesis]
+category: [Exegesis]
 description: I made this screencast video for a class I was teaching where my students were responsible to create a clause display showing the structure of Colossians 3:12-17.
 ---
 

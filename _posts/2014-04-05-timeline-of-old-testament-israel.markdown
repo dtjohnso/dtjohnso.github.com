@@ -3,7 +3,8 @@ layout: post
 title: "Timeline of Old Testament Israel"
 date: 2014-04-05 17:13
 comments: true
-categories: Projects
+category: Tech
+tags: [Projects, Exegesis]
 descriptions: I've built an interactive online timeline of Old Testament history.
 ---
 

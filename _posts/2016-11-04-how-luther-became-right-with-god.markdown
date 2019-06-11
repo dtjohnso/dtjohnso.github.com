@@ -3,7 +3,8 @@ layout: post
 title: "Lecture on Martin Luther and the Protestant Reformation"
 date: 2016-11-04 19:48
 comments: true
-categories: [Church History, Reformation]
+category: History
+tags: [Church History, Reformation]
 description: In "How Luther Became Right with God (and You Can Too!)", I describe some of the major events in Luther's life, and reflect on his significance.
 ---
 

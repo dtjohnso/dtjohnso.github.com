@@ -3,7 +3,8 @@ layout: post
 title: "The History of the English Bible Since the 20th Century"
 date: 2013-12-15 0:00
 comments: true
-categories: [Church History, Bibliology]
+category: History
+tags: [Church History, Bibliology]
 published: false
 ---
 

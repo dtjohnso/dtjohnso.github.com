@@ -3,7 +3,8 @@ layout: post
 title: "Block class on John's Epistles"
 date: 2014-03-10 10:00
 comments: true
-categories: Books
+category: Exegesis
+tags: Books
 description: A good book on the books of 1--3 John.
 image: /images/2014/03/tn_9780802825186.jpg
 ---

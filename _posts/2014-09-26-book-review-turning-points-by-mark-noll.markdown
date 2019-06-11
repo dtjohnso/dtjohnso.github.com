@@ -3,7 +3,8 @@ layout: post
 title: "Book Review - Turning Points by Mark Noll"
 date: 2014-09-26 16:19
 comments: true
-categories: [Books, Church History]
+category: History
+tags: [Books, Church History]
 description: "My review of Turning Points: Decisive Moments in the History of Christianity by Mark Noll."
 image: /images/2013/12/noll.jpg
 ---

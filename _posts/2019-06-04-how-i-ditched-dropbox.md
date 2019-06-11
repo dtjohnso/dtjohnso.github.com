@@ -3,7 +3,8 @@ title: How I Saved Money and Lost Nothing by Ditching Dropbox for Sync.com
 layout: post
 date: 2019-06-04 10:03:26 
 comments: true
-categories: Software
+category: Tech
+tags: Software
 description: "Why I switched from Dropbox Plus to Sync.com and will probably never switch back."
 ---
 

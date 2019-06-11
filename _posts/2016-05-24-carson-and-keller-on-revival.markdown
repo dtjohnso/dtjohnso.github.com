@@ -3,7 +3,8 @@ layout: post
 title: "Carson and Keller on revival"
 date: 2016-05-24 15:00
 comments: true
-categories: [Revival]
+category: Theology
+tags: [Revival]
 description: Is true revival something that we can organize? How should we pray for it? Carson and Keller provide their reflections.
 published: false
 ---

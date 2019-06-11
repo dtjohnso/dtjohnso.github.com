@@ -3,7 +3,8 @@ layout: post
 title: "Ryle on Preaching Simply"
 date: 2014-05-17 22:13
 comments: true
-categories: [Preaching, Books]
+category: Theology
+tags: [Preaching, Books]
 description: "Some great thoughts on preaching from J. C. Ryle."
 image: /images/2014/05/ryle.jpg
 ---

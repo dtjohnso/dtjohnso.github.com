@@ -3,7 +3,8 @@ layout: post
 title: "Man's Wisdom vs. God's Wisdom"
 date: 2014-05-25 08:09
 comments: true
-categories: [Preaching, Exegesis, Evangelism]
+category: Exegesis
+tags: [Preaching, Evangelism]
 description: An excellent sermon on 1 Cor. 1:18.
 ---
 
