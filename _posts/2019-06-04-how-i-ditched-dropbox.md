@@ -4,7 +4,7 @@ layout: post
 date: 2019-06-04 10:03:26 
 comments: true
 category: Tech
-tags: Software
+tags: [Software, Cloud storage]
 description: "Why I switched from Dropbox Plus to Sync.com and will probably never switch back."
 ---
 
