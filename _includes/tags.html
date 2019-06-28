@@ -1,10 +1,5 @@
----
-title: Tags
-permalink: /tags/
-layout: page
----
-
-<h1>Tag Cloud</h1>
+<div id="tagCloud">
+<h3>Tags</h3>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
@@ -15,9 +10,5 @@ layout: page
 </span>
 {% endfor %}
 
-<style type="text/css">
-.site-tag a {
-    display: inline-block;
-    margin-right: 12px;
-}
-</style>
+<style type="text/css"> .site-tag a {display: inline-block; margin-right: 12px; } </style>
+</div>

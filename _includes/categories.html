@@ -1,0 +1,11 @@
+<div id="category-list">
+  <h3>Categories</h3>
+  <ul>
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <li><a href="/category/{{ category_name | slugify }}/">{{ category_name }}</a></li>
+    <!-- <h3 class="category-head">{{ category_name }}</h3> -->
+    <!-- <a name="{{ category_name | slugize }}"></a> -->
+{% endfor %}
+  </ul>
+</div>
