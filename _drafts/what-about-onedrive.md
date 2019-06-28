@@ -8,6 +8,14 @@ title: What about OneDrive?
 	- Maybe a cost comparison?
  -->
 
+<!--
+Notes on Sync privacy:
+	https://www.sync.com/blog/your-privacy-matters/
+	https://www.sync.com/blog/why-privacy-matters-when-choosing-cloud-storage/
+	https://www.sync.com/your-privacy
+	https://www.sync.com/pdf/sync-privacy.pdf
+-->
+
 I think Onedrive is great if you need to have an Office 365 license anyway. Lots of people do, I don't currently b/c a bunch of things unique to my setup.
 
 I will have to research this, but my impression is that OneDrive also doesn't give you data privacy like Sync does, so if that's important than you have a choice to make.
