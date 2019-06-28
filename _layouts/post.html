@@ -17,8 +17,7 @@ layout: default
       {%- endif -%}
     </p>
     <p class="post-meta">
-      <!-- <span class="post-category">Category: {{page.category | capitalize | join: ', '}}<br/></span> -->
-      <span class="post-category">Category: <a href="/category/{{category | slugify}}">{{page.category}}</a></span><br/>
+      <span class="post-category">Category: {{page.category}}</span><br/>
       <span class="post-tags">
         Tags: 
         {% for tag in page.tags %}
