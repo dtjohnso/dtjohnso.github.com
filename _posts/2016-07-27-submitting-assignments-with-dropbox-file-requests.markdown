@@ -4,7 +4,7 @@ title: "Submitting assignments with Dropbox File Requests"
 date: 2016-07-27 14:04
 comments: true
 category: Tech
-tags: Pedagogy
+tags: [Pedagogy, Software, Cloud storage]
 description: I've taken to using Dropbox's "File Request" feature for having students submit writing assignments. It's really easy to set up.
 ---
 
