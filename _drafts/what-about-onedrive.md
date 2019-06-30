@@ -16,6 +16,17 @@ Notes on Sync privacy:
 	https://www.sync.com/pdf/sync-privacy.pdf
 -->
 
+<!-- 
+Notes on Microsoft privacy:
+	https://www.microsoft.com/en-us/servicesagreement/
+	https://privacy.microsoft.com/en-US/
+-->
+
+<!-- 
+New OneDrive feature
+https://www.theverge.com/2019/6/25/18744045/microsoft-onedrive-personal-fault-secure-folder-storage-2fa
+ -->
+
 I think Onedrive is great if you need to have an Office 365 license anyway. Lots of people do, I don't currently b/c a bunch of things unique to my setup.
 
 I will have to research this, but my impression is that OneDrive also doesn't give you data privacy like Sync does, so if that's important than you have a choice to make.
