@@ -62,6 +62,6 @@ As I mentioned above, Dropbox bumped their base paid tier to 2TB a couple days a
 
 ![](/images/2019/06/dropbox-costs-2.png)
 
-I'm much happier with the cost-to-feature ratio that I get at sync.com. I don't foresee a future where Dropbox shifts suddenly towards improving user experience, privacy, and value. I'll not be back to them any time soon, if ever.
+I'm much happier with the cost-to-feature ratio that I get at [sync.com][sync-referral]. I don't foresee a future where Dropbox shifts suddenly towards improving user experience, privacy, and value. I'll not be back to them any time soon, if ever.
 
 *My links to sync.com here are referral links. Just like Steve Dotto's link on his video description, if you sign up using my links here you and I will both get a small bonus in storage capacity.*
