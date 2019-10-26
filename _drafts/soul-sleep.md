@@ -5,6 +5,14 @@ tags:
 description: 
 ---
 
+https://en.wikipedia.org/wiki/Christian_mortalism#Immortality_of_the_soul
+
+https://books.google.com/books/about/Translating_Resurrection.html?id=wAKjBQAAQBAJ
+https://brill.com/view/title/19671?rskey=lh2s4r&result=1
+
+https://www.tandfonline.com/doi/full/10.1080/21692327.2015.1034755?scroll=top&needAccess=true&
+
+
 My friend and her interlocutor:
 
 > https://www.amazingfacts.org/media-library/book/e/71/t/the-rich-man-and-lazarus
