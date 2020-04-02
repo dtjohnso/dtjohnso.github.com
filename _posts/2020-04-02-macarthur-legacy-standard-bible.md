@@ -4,6 +4,7 @@ layout: post
 date: 2020-04-02 13:23:47 
 category: Theology
 tags: [Bibliology, Exegesis, Bible Translation]
+image: /images/2020/04/john-macarthur-mid-week-video-thumbnail.jpg
 description: John MacArthur announced a new Bible translation project, known as the "Legacy Standard Bible."
 ---
 
