@@ -3,7 +3,8 @@ layout: post
 title: "History of the KJV-Only movement within Fundamentalism"
 date: 2013-03-11 11:25 AM
 comments: true
-categories: [Church History, Bibliology]
+category: History
+tags: [Church History, Bibliology, Bible Translation]
 published: true
 description: Slides for a presentation describing the origins of the King James Only movement.
 ---

@@ -7,7 +7,7 @@ var refTagger = {
 		libronixLinkIcon: "",
 		noSearchClassNames: [],
 		useTooltip: true,
-		noSearchTagNames: ["h1", "h2", "h3", "h4", "h5", "h6", "span"],
+		noSearchTagNames: ["h1", "h2", "h3", "h4", "h5", "h6", "span", "header"],
 		linksOpenNewWindow: true,
 		convertHyperlinks: false,
 		socialSharing: [],

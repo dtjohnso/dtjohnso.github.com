@@ -3,7 +3,8 @@ layout: post
 title: "Student Work Showcase: Baptist History Timeline"
 date: 2013-12-06 11:08
 comments: true
-categories: [Church History, Pedagogy, Baptist History]
+category: Tech
+tags: [Church History, Pedagogy, Baptist History]
 published: true
 description: "I had my students develop an interactive timeline of Baptist history. In this post, I share it and reflect on the educational value of the exercise."
 image: /images/2013/11/timeline.png

@@ -3,7 +3,8 @@ layout: post
 title: "Book Review - Rediscovering the Church Fathers by Michael Haykin"
 date: 2014-10-14 16:59
 comments: true
-categories: [Church History, Books]
+category: History
+tags: [Church History, Books]
 description: "My review of Rediscovering the Church Fathers: Who They Were and How They Shaped the Church by Michael Haykin."
 image: /images/2014/10/7260060-L.jpg
 ---

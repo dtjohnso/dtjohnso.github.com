@@ -3,7 +3,8 @@ layout: post
 title: "Textbooks for my Courses Next Semester"
 date: 2013-12-24 14:53
 comments: true
-categories: Books
+category: Theology
+tags: Books
 ---
 
 This coming semester I'll be teaching two courses, Church History Survey and Historical Books. I thought I'd post a few links here for anyone who might be planning to take one of these classes.

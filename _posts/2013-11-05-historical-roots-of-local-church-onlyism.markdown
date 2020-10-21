@@ -3,7 +3,8 @@ layout: post
 title: "Historical roots of local-church-onlyism"
 date: 2013-11-05 13:36
 comments: true
-categories: [Church History, Baptist History]
+category: History
+tags: [Church History, Baptist History]
 description: "The view that the New Testament only speaks of the local church requires us to ignore clear biblical evidence."
 image: http://blogs.duncanjohnson.ca/th106-2013/wp-content/uploads/sites/2/2013/08/220px-JamesRobinsonGraves.jpg
 ---

@@ -3,7 +3,8 @@ layout: post
 title: "Doctrine of Assurance"
 date: 2014-11-08 22:05
 comments: true
-categories: [Theology, Books]
+category: Theology
+tags: [Books]
 description: Some helpful resources on the concept of assurance of salvation, or perseverance, from Wayne Grudem and Tim Challies.
 ---
 

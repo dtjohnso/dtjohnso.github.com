@@ -3,7 +3,8 @@ layout: post
 title: "A Study in Galatians & Romans"
 date: 2015-12-18 13:30
 comments: true
-categories: ["Exegesis", "Books"]
+category: Exegesis
+tags: ["Exegesis", "Books"]
 description: Paul's letters to the Galatians and the Romans focus on the essential core of the gospel message---salvation as justification by faith alone.
 ---
 

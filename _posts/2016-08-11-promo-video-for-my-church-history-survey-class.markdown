@@ -3,7 +3,8 @@ layout: post
 title: "Promo Video for my Church History Survey class"
 date: 2016-08-11 06:10
 comments: true
-categories: [Church History]
+category: History
+tags: [Church History]
 image: /images/2016/08/video-production-small.jpg
 description: How I made a promo video for my Church History class.
 ---
