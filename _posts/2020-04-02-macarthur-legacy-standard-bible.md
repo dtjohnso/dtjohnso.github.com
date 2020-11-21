@@ -31,6 +31,8 @@ MacArthur makes a number of interesting statements:
 
 He does not explain details of the relationship with the Lockman Foundation or the implications for the updated NASB expected this year. 
 
+[**UPDATE**, 2020-11-21: A new website for the Legacy Standard Bible project has launched with more details: <http://lsbible.org/> ]
+
 A transcript of MacArthur's remarks on the translation project is below.
 
 ---
