@@ -122,7 +122,7 @@
             biblia: "https://biblia.com",
             "bible.faithlife": "https://bible.faithlife.com"
         },
-        loggerBaseUri: "api.reftagger.com/util/v2/log",
+        // loggerBaseUri: "api.reftagger.com/util/v2/log",
         noSearchTags: {
             applet: !0,
             hr: !0,
@@ -689,7 +689,7 @@
             return d.normalizeReference(e);
         }
         function u() {
-            new Image().src = [ H, "://", e.loggerBaseUri, "?", "documentUrl=", encodeURIComponent(M.location), "&referenceCount=", +O.referenceCount, "&microreferenceCount=", +O.markedBibleReferenceCount, "&bibleVersion=", encodeURIComponent(F.bibleVersion), "&usesLibronixLinks=", !!F.addLogosLink, "&usesTooltips=", !!F.useTooltip, "&applicationVersion=", a.version, "&rand=", Math.random().toString().substring(10) ].join("");
+            // new Image().src = [ H, "://", e.loggerBaseUri, "?", "documentUrl=", encodeURIComponent(M.location), "&referenceCount=", +O.referenceCount, "&microreferenceCount=", +O.markedBibleReferenceCount, "&bibleVersion=", encodeURIComponent(F.bibleVersion), "&usesLibronixLinks=", !!F.addLogosLink, "&usesTooltips=", !!F.useTooltip, "&applicationVersion=", a.version, "&rand=", Math.random().toString().substring(10) ].join("");
         }
         function f() {
             var e, t, o, n = /lbsRefTaggerPrefs=(?:((?:\w|\d){2,5})\.(true|false))/.exec(M.cookie), r = M.getElementById("lbsRefTaggerCP");
