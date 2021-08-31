@@ -6,6 +6,7 @@ comments: false
 
 I use this page to organize links to various online projects that I've created. In some cases, I link to both a newer and older version of the project.
 
+<!-->
 ## Websites
 
 * duncanjohnson.ca ([Github repo](https://github.com/dtjohnso/dtjohnso.github.com)) - This site, powered by Jekyll.
@@ -15,8 +16,9 @@ I use this page to organize links to various online projects that I've created. 
 * [duncanandmeg.org](http://duncanandmeg.org) - A simple landing page created with Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/duncanandmeg.org).
 * [A Joyful Melody](http://www.joyfulmelody.ca/) - A site for my wife's violin studio, running WordPress.
 * [Western Canada Baptist Fellowship](http://wcbf.net/) - The WCBF is a pastors' fellowship. Previously, this website ran on concrete5. I took the site over when the previous maintainers no longer wished to oversee it, and converted it to a static site using Jekyll. Source available at the [Github repo](https://github.com/dtjohnso/wcbf/).
-<!-- * [Foundation Baptist College](http://www.foundationbaptistcollege.ca/) - I hired [Mark Ward (Forward Design)](http://forwarddesigner.net/) to design this website, but I've been solely responsible for the content since launch. -->
+* [Foundation Baptist College](http://www.foundationbaptistcollege.ca/) - I hired [Mark Ward (Forward Design)](http://forwarddesigner.net/) to design this website, but I've been solely responsible for the content since launch.
 * [library.foundationbaptistcollege.com](http://library.foundationbaptistcollege.com/) - Unlike my other website projects (which are predominantly deployed on shared hosting), this site is a live install of the open-source [Koha ILS](https://koha-community.org/) on a small Ubuntu server that I maintain. This has been a great experience for me, since I've been able to practice maintaining a small Linux-based server in a low-stakes deployed environment.
+-->
 
 ## Software for Student Writing
 
