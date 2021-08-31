@@ -6,7 +6,7 @@ comments: false
 
 I use this page to organize links to various online projects that I've created. In some cases, I link to both a newer and older version of the project.
 
-<!-->
+<!--
 ## Websites
 
 * duncanjohnson.ca ([Github repo](https://github.com/dtjohnso/dtjohnso.github.com)) - This site, powered by Jekyll.
