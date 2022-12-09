@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title: "Contact Me"
-date: 2022-12-09 10:10:05 
+comments: false
 ---
 
-If you want to get in touch with me, please send an email:
+If you want to get in touch, please send an email:
 
 ```
 duncan [at] duncanjohnson [dot] ca
