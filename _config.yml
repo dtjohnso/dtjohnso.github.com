@@ -20,7 +20,7 @@
 title: DuncanJohnson.ca
 author: Duncan Johnson
 # email: your-email@example.com
-# description: description here
+description: 
 url: "https://duncanjohnson.ca" 
 baseurl: ""
 permalink: /blog/:year/:month/:day/:title/
