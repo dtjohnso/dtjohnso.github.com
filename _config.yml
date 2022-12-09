@@ -24,9 +24,7 @@ author: Duncan Johnson
 url: "https://duncanjohnson.ca" 
 baseurl: ""
 permalink: /blog/:year/:month/:day/:title/
-twitter_username: dtjohnso
 github_username:  dtjohnso
-facebook_username: dtjohnso
 linkedin_username: djohnson16
 
 # Google Analytics
