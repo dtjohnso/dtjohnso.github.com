@@ -20,11 +20,7 @@
 title: DuncanJohnson.ca
 author: Duncan Johnson
 # email: your-email@example.com
-# description: >- # this means to ignore newlines until "url:"
-  
-#   Sometimes I write about religious history, Christian
-#   theology, biblical exegesis, and technology here. 
-
+# description: description here
 url: "https://duncanjohnson.ca" 
 baseurl: ""
 permalink: /blog/:year/:month/:day/:title/
